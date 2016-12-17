@@ -1,0 +1,287 @@
+#u260
+{
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+}
+
+#menuu131
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u132,#u135
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u135:active
+{
+	background-color: transparent;
+}
+
+#u137-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u210,#u211
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u135.MuseMenuActive,#u211:active
+{
+	background-color: transparent;
+}
+
+#u213-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u203,#u204
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u211.MuseMenuActive,#u204:active
+{
+	background-color: transparent;
+}
+
+#u206-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u189,#u190
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u204.MuseMenuActive,#u190:active
+{
+	background-color: transparent;
+}
+
+#u192-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u218
+{
+	position: fixed;
+	background: transparent url("../images/_dsc8265_muse.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u343
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: fixed;
+	background: transparent url("../images/_dsc8265_muse_blured.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+.js #u343.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u261
+{
+	background-color: #4B554B;
+}
+
+#menuu307
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u447,#u322,#u323
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u190.MuseMenuActive,#u323:active
+{
+	background-color: transparent;
+}
+
+#u324-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u315,#u318
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u323.MuseMenuActive,#u318:active
+{
+	background-color: transparent;
+}
+
+#u320-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u336,#u339
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u318.MuseMenuActive,#u339:active
+{
+	background-color: transparent;
+}
+
+#u342-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u329,#u330
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u339.MuseMenuActive,#u330:active
+{
+	background-color: transparent;
+}
+
+#u330.MuseMenuActive
+{
+	background-color: transparent;
+}
+
+#u331-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u434
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u301,#u356
+{
+	background-color: #283033;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u354,#u360
+{
+	background-color: #334339;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#home,#story,#shop,#socialmedia,#contact
+{
+	position: relative;
+}
+
+#u458
+{
+	background-color: #322224;
+}
+
