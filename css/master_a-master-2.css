@@ -1,3 +1,12 @@
+#u574
+{
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	position: fixed;
+}
+
 #u569
 {
 	background-color: #4B554B;
@@ -12,15 +21,6 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-}
-
-#u574
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-	position: fixed;
 }
 
 #menuu540
