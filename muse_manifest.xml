@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1481990262032">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1481990347709">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master-2.css" crc="3811753409" ref="index"/>
-    <file name="index.css" crc="207627289" ref="index"/>
+    <file name="index.css" crc="441465461" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -19,5 +19,5 @@
     <file name="shop_01-u409.png" crc="319771753" ref="index"/>
     <file name="_dsc8265_muse-u618-fr.jpg" crc="382310099" ref="index"/>
   </folder>
-  <file name="index.html" crc="279443117" seo="true" mt="1481990256601" redirect="true"/>
+  <file name="index.html" crc="234471556" seo="true" mt="1481990344114" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #602419;
+	color: #00001A;
+	background-color: #503A75;
 }
 
 .html
@@ -50,17 +50,14 @@
 #u646
 {
 	z-index: 12;
+	width: 1480px;
 	height: 911px;
 	border-style: none;
 	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
 	background: transparent url("../images/_dsc8265_muse-u618-fr.jpg") no-repeat left top;
 	background-size: cover;
-}
-
-#u646-bw
-{
-	z-index: 12;
-	height: 911px;
 }
 
 #pu574
