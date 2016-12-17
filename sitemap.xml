@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sacroix.com/images/sa%20croix_muse.png</loc>
-    <lastmod>2016-08-05</lastmod>
+    <loc>http://sacroix.github.io/images/sa%20croix_muse.png</loc>
+    <lastmod>2016-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.com/index.html</loc>
-    <lastmod>2016-08-05</lastmod>
+    <loc>http://sacroix.github.io/index.html</loc>
+    <lastmod>2016-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

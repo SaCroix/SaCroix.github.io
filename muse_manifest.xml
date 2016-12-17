@@ -1,24 +1,24 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.com" resolutions="1x" timestamp="1470356314358">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1481988119075">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="122483507" ref="index"/>
-    <file name="index.css" crc="4045823122" ref="index"/>
+    <file name="master_a-master-2.css" crc="185334041" ref="index"/>
+    <file name="index.css" crc="3950672359" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
     <file name="museutils.js" crc="183364071" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="sa croix_muse.png" crc="472733585" seo="true" ref="index"/>
     <file name="_dsc8265_muse.jpg" crc="152911748" ref="index"/>
     <file name="_dsc8265_muse_blured.jpg" crc="38626127" ref="index"/>
+    <file name="sa croix_muse.png" crc="472733585" seo="true" ref="index"/>
     <file name="story_01.jpg" crc="4171113003" ref="index"/>
     <file name="shop_01-u409.png" crc="319771753" ref="index"/>
   </folder>
-  <file name="index.html" crc="118475129" seo="true" mt="1470356313783" redirect="true"/>
+  <file name="index.html" crc="134219258" seo="true" mt="1481988051831" redirect="true"/>
 </manifest>
