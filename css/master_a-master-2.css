@@ -1,7 +1,7 @@
 #u580
 {
 	position: fixed;
-	background: transparent url("../images/_dsc8265_muse.jpg") no-repeat left top;
+	background: transparent url("../images/_dsc8265_muse-u618-fr.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -11,8 +11,17 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	position: fixed;
-	background: transparent url("../images/_dsc8265_muse_blured.jpg") no-repeat left top;
+	background: transparent url("../images/_dsc8265_muse_blured-u619-fr.jpg") no-repeat left top;
 	background-size: cover;
+}
+
+#u574
+{
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	position: fixed;
 }
 
 #u569
@@ -24,20 +33,11 @@
 	position: fixed;
 }
 
-.js #u569.ose_pre_init
+.js #u582.ose_pre_init,.js #u569.ose_pre_init
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-}
-
-#u574
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-	position: fixed;
 }
 
 #menuu540
@@ -176,7 +176,7 @@
 	filter: alpha(opacity=50);
 }
 
-#home,#u613,#story,#shop,#socialmedia,#contact
+#home,#story,#shop,#socialmedia,#contact
 {
 	position: relative;
 }

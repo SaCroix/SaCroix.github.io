@@ -11,8 +11,8 @@
   <title>HOME | SaCroix</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master-2.css?395749279"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?70042863" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master-2.css?77322108"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?347497581" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -30,16 +30,14 @@
      <div class="museBGSize pinned-colelem" id="u580"><!-- simple frame --></div>
     </div>
     <div class="browser_width" id="u582-bw">
-     <div class="museBGSize pinned-colelem" id="u582"><!-- simple frame --></div>
-    </div>
-    <div class="browser_width" id="u569-bw">
-     <div class="ose_pre_init pinned-colelem" id="u569"><!-- simple frame --></div>
+     <div class="museBGSize ose_pre_init pinned-colelem" id="u582"><!-- simple frame --></div>
     </div>
     <div class="browser_width" id="u574-bw">
      <div class="pinned-colelem" id="u574"><!-- simple frame --></div>
     </div>
-    <div class="museBGSize pinned-colelem" id="u618"><!-- simple frame --></div>
-    <div class="museBGSize pinned-colelem" id="u619"><!-- simple frame --></div>
+    <div class="browser_width" id="u569-bw">
+     <div class="ose_pre_init pinned-colelem" id="u569"><!-- simple frame --></div>
+    </div>
     <a class="anchor_item colelem" id="home"></a>
     <nav class="MenuBar clearfix pinned-colelem" id="menuu540"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem" id="u562"><!-- vertical box -->
@@ -56,7 +54,6 @@
      </div>
     </nav>
     <a class="nonblock nontext anim_swing clip_frame pinned-colelem" id="u572" href="index.html#home"><!-- image --><img class="block" id="u572_img" src="images/sa%20croix_muse.png" alt="" width="157" height="46"/></a>
-    <div class="colelem" id="u613"><!-- simple frame --></div>
     <div class="clearfix colelem" id="ppu366"><!-- group -->
      <div class="grpelem" id="pu366"><!-- inclusion -->
       <div id="u366"><!-- simple frame --></div>
@@ -153,6 +150,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Einige der Dateien auf dem Server fehlen oder sind ungültig. Löschen Sie den Browser-Cache und versuchen Sie es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an den Autor der Website.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+$('#u582').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,0],"opacity":0},{"in":[0,0],"opacity":0},{"fade":611,"in":[0,Infinity],"opacity":100}]);/* scroll effect */
 $('#u569').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,307],"opacity":0},{"in":[307,307],"opacity":0},{"fade":504,"in":[307,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.resizeHeight()/* resize height */
