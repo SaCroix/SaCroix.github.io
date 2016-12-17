@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #4C73B7;
+	color: #00000A;
+	background-color: #32207C;
 }
 
 .html
@@ -28,36 +28,17 @@
 	width: 0.01px;
 }
 
-#u580
+#u630
 {
-	z-index: 2;
+	z-index: 12;
 	width: 1480px;
 	height: 911px;
+	position: fixed;
 	top: 0px;
 	left: 50%;
 	margin-left: -740px;
-}
-
-#u582
-{
-	z-index: 3;
-	width: 1480px;
-	height: 911px;
-	top: 0px;
-	left: 50%;
-	margin-left: -740px;
-}
-
-#u574
-{
-	z-index: 51;
-	height: 100px;
-	top: 0px;
-}
-
-#u574-bw
-{
-	z-index: 51;
+	background: transparent url("../images/_dsc8265_muse-u618-fr.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #u569
@@ -70,6 +51,34 @@
 #u569-bw
 {
 	z-index: 52;
+}
+
+#u631
+{
+	z-index: 13;
+	width: 1480px;
+	height: 911px;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -740px;
+	background: transparent url("../images/_dsc8265_muse_blured-u619-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u574
+{
+	z-index: 51;
+	height: 100px;
+	top: 0px;
+}
+
+#u574-bw
+{
+	z-index: 51;
 }
 
 #home
@@ -383,7 +392,7 @@
 
 #u589,#u589-bw
 {
-	z-index: 4;
+	z-index: 2;
 	height: 911px;
 }
 
@@ -430,7 +439,7 @@
 
 #u578,#u578-bw
 {
-	z-index: 5;
+	z-index: 3;
 	height: 911px;
 }
 
@@ -481,7 +490,7 @@
 
 #u585,#u585-bw
 {
-	z-index: 7;
+	z-index: 5;
 	height: 911px;
 }
 
@@ -561,7 +570,7 @@
 
 #u584,#u584-bw
 {
-	z-index: 6;
+	z-index: 4;
 	height: 911px;
 }
 
@@ -574,7 +583,7 @@
 
 #u586,#u586-bw
 {
-	z-index: 13;
+	z-index: 11;
 	height: 256px;
 }
 
