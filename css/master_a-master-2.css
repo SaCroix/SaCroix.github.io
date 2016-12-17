@@ -1,3 +1,29 @@
+#u580
+{
+	position: fixed;
+	background: transparent url("../images/_dsc8265_muse-u618-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u582
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: fixed;
+	background: transparent url("../images/_dsc8265_muse_blured-u619-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u574
+{
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	position: fixed;
+}
+
 #u569
 {
 	background-color: #4B554B;
@@ -12,15 +38,6 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-}
-
-#u574
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-	position: fixed;
 }
 
 #menuu540
