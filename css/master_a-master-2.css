@@ -1,22 +1,15 @@
-#u569
-{
-	background-color: #4B554B;
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-	position: fixed;
-}
-
-.js #u569.ose_pre_init
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-}
-
 #u672
 {
 	background: #73FBFF url("../images/muse.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u715
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	background: transparent url("../images/muse_blur.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -29,10 +22,20 @@
 	position: fixed;
 }
 
-#u572
+#u569
 {
-	background-color: transparent;
+	background-color: #4B554B;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 	position: fixed;
+}
+
+.js #u715.ose_pre_init,.js #u569.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 }
 
 #menuu540
@@ -147,6 +150,12 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u572
+{
+	background-color: transparent;
+	position: fixed;
 }
 
 #u589,#u585
