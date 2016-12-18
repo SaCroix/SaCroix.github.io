@@ -23,6 +23,19 @@
 	position: fixed;
 }
 
+#u672
+{
+	position: relative;
+	background: #73FBFF url("../images/_dsc8265_muse-u672-fr.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u572
+{
+	background-color: transparent;
+	position: fixed;
+}
+
 #menuu540
 {
 	border-style: none;
@@ -135,18 +148,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u572
-{
-	background-color: transparent;
-	position: fixed;
-}
-
-#u672
-{
-	background-color: #73FBFF;
-	position: relative;
 }
 
 #u589,#u585
