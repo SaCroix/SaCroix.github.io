@@ -1,7 +1,10 @@
-#u644
+#u574
 {
-	background: transparent url("../images/_dsc8265_muse.jpg") no-repeat center top;
-	background-size: cover;
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	position: fixed;
 }
 
 #u569
@@ -18,15 +21,6 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-}
-
-#u574
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-	position: fixed;
 }
 
 #menuu540
@@ -147,6 +141,12 @@
 {
 	background-color: transparent;
 	position: fixed;
+}
+
+#u638
+{
+	background-color: transparent;
+	position: relative;
 }
 
 #u589,#u585
