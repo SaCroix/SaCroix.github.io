@@ -14,24 +14,12 @@
 	filter: alpha(opacity=0);
 }
 
-#u651
-{
-	background: transparent url("../images/_dsc8265_muse.jpg") no-repeat center top;
-	background-size: cover;
-}
-
 #u574
 {
 	background-color: #FFFFFF;
 	opacity: 0.3;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
 	filter: alpha(opacity=30);
-	position: fixed;
-}
-
-#u572
-{
-	background-color: transparent;
 	position: fixed;
 }
 
@@ -147,6 +135,19 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u572
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u651
+{
+	position: relative;
+	background: transparent url("../images/_dsc8265_muse-u651-fr.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u589,#u585
