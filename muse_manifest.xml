@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1482098320548">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1482098377513">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master-2.css" crc="4027586194" ref="index"/>
+    <file name="master_a-master-2.css" crc="502728232" ref="index"/>
     <file name="index.css" crc="122861566" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -17,7 +17,7 @@
     <file name="sa croix_muse.png" crc="472733585" seo="true" ref="index"/>
     <file name="story_01.jpg" crc="4171113003" ref="index"/>
     <file name="shop_01-u409.png" crc="319771753" ref="index"/>
-    <file name="_dsc8265_muse-u672-fr.jpg" crc="183486691" ref="index"/>
+    <file name="backdrop.jpg" crc="3760337595" ref="index"/>
   </folder>
-  <file name="index.html" crc="3984927668" seo="true" mt="1482098316653" redirect="true"/>
+  <file name="index.html" crc="3984927668" seo="true" mt="1482098376941" redirect="true"/>
 </manifest>
