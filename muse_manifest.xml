@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1482093300047">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1482093492548">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master-2.css" crc="3932852294" ref="index"/>
-    <file name="index.css" crc="3790260307" ref="index"/>
+    <file name="master_a-master-2.css" crc="4262188094" ref="index"/>
+    <file name="index.css" crc="3979811149" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -19,5 +19,5 @@
     <file name="shop_01-u409.png" crc="319771753" ref="index"/>
     <file name="backdrop.jpg" crc="54904666" ref="index"/>
   </folder>
-  <file name="index.html" crc="318190395" seo="true" mt="1482093258437" redirect="true"/>
+  <file name="index.html" crc="513169504" seo="true" mt="1482093486173" redirect="true"/>
 </manifest>

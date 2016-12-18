@@ -145,7 +145,9 @@
 
 #u622
 {
-	background: #E2FFCE url("../images/backdrop.jpg") no-repeat left top;
+	position: relative;
+	background: transparent url("../images/backdrop.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u589,#u585
