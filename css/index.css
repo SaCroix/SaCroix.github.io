@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E6;
-	background-color: #AD8307;
+	color: #0000F7;
+	background-color: #93840D;
 }
 
 .html
@@ -30,26 +30,26 @@
 
 #u574
 {
-	z-index: 52;
+	z-index: 53;
 	height: 100px;
 	top: 0px;
 }
 
 #u574-bw
 {
-	z-index: 52;
+	z-index: 53;
 }
 
 #u569
 {
-	z-index: 53;
+	z-index: 54;
 	height: 100px;
 	top: 0px;
 }
 
 #u569-bw
 {
-	z-index: 53;
+	z-index: 54;
 }
 
 #home
@@ -59,7 +59,7 @@
 
 #menuu540
 {
-	z-index: 56;
+	z-index: 57;
 	width: 1084px;
 	top: 20px;
 	left: 50%;
@@ -251,7 +251,7 @@
 
 #u572
 {
-	z-index: 54;
+	z-index: 55;
 	width: 158px;
 	top: 27px;
 	left: 50%;
@@ -442,10 +442,25 @@
 {
 	z-index: 50;
 	width: 808px;
-	height: 591px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 559px;
 	position: relative;
 	margin-right: -10000px;
 	left: 414px;
+}
+
+#u636
+{
+	z-index: 52;
+	width: 281px;
+	min-height: 32px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u585,#u585-bw
@@ -518,7 +533,7 @@
 	left: 414px;
 }
 
-.ie #u411,.ie #u413
+.ie #u413
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
