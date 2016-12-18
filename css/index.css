@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #887783;
+	color: #00000F;
+	background-color: #7A2F7D;
 }
 
 .html
@@ -24,7 +24,20 @@
 
 #page_position_content
 {
+	padding-top: 1px;
 	width: 0.01px;
+}
+
+#u574
+{
+	z-index: 50;
+	height: 100px;
+	top: 0px;
+}
+
+#u574-bw
+{
+	z-index: 50;
 }
 
 #u569
@@ -41,57 +54,7 @@
 
 #home
 {
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 729px;
-}
-
-#u646
-{
-	z-index: 16;
-	width: 1480px;
-	height: 911px;
-	border-style: none;
-	border-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/_dsc8265_muse-u618-fr.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#pu574
-{
-	width: 0.01px;
-	padding-bottom: 100px;
-	margin-left: -100px;
-	margin-top: -911px;
-}
-
-#u574
-{
-	z-index: 50;
-	height: 100px;
-	top: 0px;
-}
-
-#u574-bw
-{
-	z-index: 50;
-}
-
-#u572
-{
-	z-index: 52;
-	width: 158px;
-	top: 27px;
-	left: 50%;
-	margin-left: -631px;
-}
-
-#u572_img
-{
-	padding-right: 1px;
+	margin-left: 629px;
 }
 
 #menuu540
@@ -286,9 +249,39 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u572
+{
+	z-index: 52;
+	width: 158px;
+	top: 27px;
+	left: 50%;
+	margin-left: -631px;
+}
+
+#u572_img
+{
+	padding-right: 1px;
+}
+
+#u622
+{
+	z-index: 2;
+	width: 1380px;
+	height: 710px;
+	left: -60px;
+	margin-top: 72px;
+}
+
+#ppu366
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 110px;
+}
+
 #pu366
 {
-	z-index: 12;
+	z-index: 13;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -379,13 +372,13 @@
 
 #u589,#u589-bw
 {
-	z-index: 2;
+	z-index: 3;
 	height: 911px;
 }
 
 #pu367
 {
-	z-index: 13;
+	z-index: 14;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -426,13 +419,13 @@
 
 #u578,#u578-bw
 {
-	z-index: 3;
+	z-index: 4;
 	height: 911px;
 }
 
 #pu371
 {
-	z-index: 14;
+	z-index: 15;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -477,11 +470,11 @@
 
 #u585,#u585-bw
 {
-	z-index: 5;
+	z-index: 6;
 	height: 911px;
 }
 
-#phome,#ppu366,#ppu367,#ppu371,#ppu373
+#ppu367,#ppu371,#ppu373
 {
 	width: 0.01px;
 	margin-left: -100px;
@@ -489,7 +482,7 @@
 
 #pu373
 {
-	z-index: 15;
+	z-index: 16;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -557,7 +550,7 @@
 
 #u584,#u584-bw
 {
-	z-index: 4;
+	z-index: 5;
 	height: 911px;
 }
 
@@ -570,7 +563,7 @@
 
 #u586,#u586-bw
 {
-	z-index: 11;
+	z-index: 12;
 	height: 256px;
 }
 
