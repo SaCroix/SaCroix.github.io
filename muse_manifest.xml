@@ -1,4 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1482948440453">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1482949683798">
+  <folder name="assets">
+    <file name="mailer.php" crc="218928960" seo="true" mt="1482949643000"/>
+  </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master-2.css" crc="219788164" ref="phone>index"/>
@@ -7,7 +10,7 @@
     <file name="index.html" crc="4184700625" seo="true" mt="1482227295495" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
+    <file name="site_global.css" crc="453856629"/>
     <file name="master_a-master-2.css" crc="135014257" ref="index"/>
     <file name="index.css" crc="511387155" ref="index"/>
     <file name="shop.css" crc="4205434690" ref="shop"/>
@@ -45,6 +48,6 @@
     <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="shop"/>
     <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="shop"/>
   </folder>
-  <file name="index.html" crc="411703881" seo="true" mt="1482947921916" redirect="true"/>
+  <file name="index.html" crc="4285931588" seo="true" mt="1482949676475" redirect="true"/>
   <file name="shop.html" crc="4128092482" seo="true" mt="1482948420793" redirect="true"/>
 </manifest>
