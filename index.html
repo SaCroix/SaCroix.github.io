@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musemenu.js", "museredirect.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museredirect.js", "jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "index.css"], "outOfDate":[]};
 </script>
   
   <script src="scripts/museredirect.js?40941066" type="text/javascript"></script>
@@ -18,8 +18,8 @@
   <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://sacroix.github.io/phone/index.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master-2.css?104279132"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?243402131" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master-2.css?135014257"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?511387155" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -47,17 +47,17 @@
   
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <div class="browser_width mse_pre_init" id="u672-bw">
-     <div class="museBGSize" id="u672"><!-- simple frame --></div>
+    <div class="browser_width" id="u569-bw">
+     <div class="ose_pre_init pinned-colelem" id="u569"><!-- simple frame --></div>
     </div>
     <div class="browser_width mse_pre_init" id="u715-bw">
      <div class="museBGSize ose_pre_init" id="u715"><!-- simple frame --></div>
     </div>
+    <div class="browser_width mse_pre_init" id="u672-bw">
+     <div class="museBGSize" id="u672"><!-- simple frame --></div>
+    </div>
     <div class="browser_width" id="u574-bw">
      <div class="pinned-colelem" id="u574"><!-- simple frame --></div>
-    </div>
-    <div class="browser_width" id="u569-bw">
-     <div class="ose_pre_init pinned-colelem" id="u569"><!-- simple frame --></div>
     </div>
     <a class="anchor_item colelem" id="home"></a>
     <nav class="MenuBar clearfix pinned-colelem" id="menuu540"><!-- horizontal box -->
@@ -115,6 +115,7 @@
       <div id="u578"><!-- simple frame --></div>
      </div>
      <a class="anchor_item grpelem" id="shop"></a>
+     <a class="nonblock nontext rounded-corners clearfix grpelem" id="u845-4" href="shop.html"><!-- content --><p>BESTELLEN</p></a>
     </div>
     <div class="clearfix colelem" id="ppu371"><!-- group -->
      <div class="grpelem" id="pu371"><!-- inclusion -->
@@ -166,8 +167,8 @@
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?183364071" type="text/javascript"></script>
-  <script src="scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
   <script src="scripts/jquery.scrolleffects.js?3860644955" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?3957776250" type="text/javascript"></script>
   <!-- Other scripts -->
@@ -178,11 +179,11 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Einige der Dateien auf dem Server fehlen oder sind ungültig. Löschen Sie den Browser-Cache und versuchen Sie es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an den Autor der Website.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-$('#u672-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
+$('#u569').registerOpacityScrollEffect([{"in":[-Infinity,307],"opacity":0,"fade":0},{"in":[307,307],"opacity":0},{"in":[307,Infinity],"opacity":100,"fade":504}]);/* scroll effect */
+$('#u715-bw').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[null,0]},{"in":[0,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u715').registerOpacityScrollEffect([{"in":[-Infinity,0],"opacity":0,"fade":911},{"in":[0,0],"opacity":0},{"in":[0,Infinity],"opacity":100,"fade":911}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
-$('#u715-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
-$('#u715').registerOpacityScrollEffect([{"in":[-Infinity,0],"opacity":0,"fade":911},{"opacity":0,"in":[0,0]},{"in":[0,Infinity],"opacity":100,"fade":911}]);/* scroll effect */
-$('#u569').registerOpacityScrollEffect([{"in":[-Infinity,307],"opacity":0,"fade":0},{"opacity":0,"in":[307,307]},{"in":[307,Infinity],"opacity":100,"fade":504}]);/* scroll effect */
+$('#u672-bw').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[null,0]},{"in":[0,Infinity],"speed":[null,0]}]);/* scroll effect */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
