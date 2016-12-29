@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1483025990664">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1483026794232">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master-2.css" crc="3932654510" ref="phone>index"/>
-      <file name="index.css" crc="62929374" ref="phone>index"/>
+      <file name="master_a-master-2.css" crc="3772686533" ref="phone>index"/>
+      <file name="index.css" crc="3979964578" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4063835382" seo="true" mt="1483025691168" redirect="true"/>
+    <file name="index.html" crc="3992102021" seo="true" mt="1483026786935" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
@@ -22,11 +22,11 @@
     <file name="jquery.watch.js" crc="71412426" ref="index:phone>index:shop:shop-instructions"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:phone>index:shop:shop-instructions"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
   </folder>
   <folder name="images">
     <file name="sa croix_muse.png" crc="472733585" ref="index" seo="true"/>
-    <file name="story_01.jpg" crc="4171113003" ref="index"/>
+    <file name="story_01.jpg" crc="4171113003" ref="index:phone>index"/>
     <file name="muse.jpg" crc="4290151289" ref="index:phone>index"/>
     <file name="muse_blur.jpg" crc="317673932" ref="index:phone>index:shop:shop-instructions"/>
     <file name="logo_instagram.png" crc="3867389807" seo="true" ref="index"/>
@@ -36,8 +36,9 @@
     <file name="shop_01-u409-fr.png" crc="338509949" ref="index"/>
     <file name="sa croix_muse2.png" crc="472733585" seo="true" ref="index"/>
     <file name="sa croix_muse3.png" crc="472733585" ref="shop:shop-instructions"/>
+    <file name="shop_01-u1162.png" crc="4037619256" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="3860613330" seo="true" mt="1483000844512" redirect="true"/>
+  <file name="index.html" crc="3972612104" seo="true" mt="1483026319940" redirect="true"/>
   <file name="shop.html" crc="3936424290" seo="true" mt="1482999359591" redirect="true"/>
   <file name="shop-instructions.html" crc="512923814" seo="true" mt="1482999359595" redirect="true"/>
 </manifest>
