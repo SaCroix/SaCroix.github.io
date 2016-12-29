@@ -23,12 +23,6 @@
 	filter: alpha(opacity=0);
 }
 
-#u672
-{
-	background: #73FBFF url("../images/muse.jpg") no-repeat center top;
-	background-size: cover;
-}
-
 #u574
 {
 	background-color: #FFFFFF;
@@ -36,6 +30,12 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
 	filter: alpha(opacity=30);
 	position: fixed;
+}
+
+#u672
+{
+	background: #73FBFF url("../images/muse.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #menuu540
@@ -62,10 +62,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -86,10 +86,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -110,10 +110,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -139,10 +139,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -174,13 +174,28 @@
 	filter: alpha(opacity=50);
 }
 
-#home,#story,#shop,#socialmedia,#contact
+#u586
+{
+	background-color: #1F211A;
+}
+
+#home,#story,#shop,#socialmedia,#contact,#u586_align_to_page
 {
 	position: relative;
 }
 
-#u586
+#u1066-15
 {
-	background-color: #322224;
+	background-color: transparent;
+	color: #3F3F3F;
+	position: relative;
+}
+
+#u1068-6
+{
+	background-color: transparent;
+	text-align: right;
+	color: #565656;
+	position: relative;
 }
 

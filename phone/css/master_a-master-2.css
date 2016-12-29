@@ -1,3 +1,11 @@
+#u794
+{
+	background-color: #4B554B;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
 #u782
 {
 	opacity: 0;
@@ -5,6 +13,13 @@
 	filter: alpha(opacity=0);
 	background: transparent url("../../images/muse_blur.jpg") no-repeat center top;
 	background-size: cover;
+}
+
+.js #u794.ose_pre_init,.js #u782.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 }
 
 #u793
@@ -15,19 +30,10 @@
 	filter: alpha(opacity=30);
 }
 
-#u794
+#u781
 {
-	background-color: #4B554B;
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-}
-
-.js #u782.ose_pre_init,.js #u794.ose_pre_init
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
+	background: #73FBFF url("../../images/muse.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #menuu797
@@ -35,7 +41,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
+	position: fixed;
 }
 
 #u798,#u801
@@ -55,9 +61,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 29px;
-	color: #FFFFFF;
-	font-size: 24px;
 	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -79,9 +85,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 29px;
-	color: #FFFFFF;
-	font-size: 24px;
 	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -103,9 +109,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 29px;
-	color: #FFFFFF;
-	font-size: 24px;
 	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -132,9 +138,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 29px;
-	color: #FFFFFF;
-	font-size: 24px;
 	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -142,14 +148,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u784,#u785
-{
-	background-color: #334339;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
 }
 
 #u783,#u786
@@ -160,20 +158,16 @@
 	filter: alpha(opacity=50);
 }
 
-#home,#story,#shop,#socialmedia,#contact
+#u784,#u785
 {
-	position: relative;
+	background-color: #334339;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 }
 
-#u781
+#homemobile,#storymobile,#shopmobile,#socialmediamobile,#teammobile
 {
-	background: #73FBFF url("../../images/muse.jpg") no-repeat center top;
-	background-size: cover;
-}
-
-#u795
-{
-	background-color: transparent;
 	position: relative;
 }
 
