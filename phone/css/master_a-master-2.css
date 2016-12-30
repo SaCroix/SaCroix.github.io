@@ -1,9 +1,15 @@
-#u794
+#u793
 {
-	background-color: #4B554B;
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+}
+
+#u781
+{
+	background: #73FBFF url("../../images/muse.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u782
@@ -15,25 +21,19 @@
 	background-size: cover;
 }
 
-.js #u794.ose_pre_init,.js #u782.ose_pre_init
+#u794
 {
+	background-color: #4B554B;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 }
 
-#u781
+.js #u782.ose_pre_init,.js #u794.ose_pre_init
 {
-	background: #73FBFF url("../../images/muse.jpg") no-repeat center top;
-	background-size: cover;
-}
-
-#u793
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 }
 
 #menuu797
