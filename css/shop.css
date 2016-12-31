@@ -1,7 +1,7 @@
 .version.shop /* version checker */
 {
-	color: #00001B;
-	background-color: #88F400;
+	color: #000018;
+	background-color: #2589E3;
 }
 
 .html
@@ -198,12 +198,12 @@
 #u1237
 {
 	z-index: 52;
-	width: 288px;
-	background-color: transparent;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 313px;
-	left: 410px;
+	margin-top: 343px;
+	left: 440px;
 }
 
 #u1244
@@ -266,7 +266,7 @@
 {
 	z-index: 58;
 	height: 121px;
-	background: transparent url("../images/sa%20croix_muse2.png") no-repeat center center;
+	background: transparent url("../images/sa%20croix_muse3.png") no-repeat center center;
 }
 
 #u1085-bw

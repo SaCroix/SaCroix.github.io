@@ -1,11 +1,3 @@
-#u793
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-}
-
 #u781
 {
 	background: #73FBFF url("../../images/muse.jpg") no-repeat center top;
@@ -21,12 +13,22 @@
 	background-size: cover;
 }
 
+#u793
+{
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	position: relative;
+}
+
 #u794
 {
 	background-color: #4B554B;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	position: fixed;
 }
 
 .js #u782.ose_pre_init,.js #u794.ose_pre_init
@@ -156,7 +158,7 @@
 	vertical-align: top;
 }
 
-#u783,#u786
+#u786,#u783
 {
 	background-color: #283033;
 	opacity: 0.5;
@@ -164,7 +166,7 @@
 	filter: alpha(opacity=50);
 }
 
-#u784,#u785
+#u785,#u784
 {
 	background-color: #334339;
 	opacity: 0.5;
@@ -172,7 +174,7 @@
 	filter: alpha(opacity=50);
 }
 
-#homemobile,#u1303,#storymobile,#shopmobile,#socialmediamobile,#teammobile
+#homemobile,#u1303,#socialmediamobile,#teammobile,#shopmobile,#storymobile
 {
 	position: relative;
 }
