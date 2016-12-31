@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #06CAC5;
+	color: #00001B;
+	background-color: #C4F271;
 }
 
 .html
@@ -30,14 +30,14 @@
 
 #u569
 {
-	z-index: 113;
+	z-index: 115;
 	height: 100px;
 	top: 0px;
 }
 
 #u569-bw
 {
-	z-index: 113;
+	z-index: 115;
 }
 
 #u715
@@ -57,14 +57,14 @@
 
 #u574
 {
-	z-index: 112;
+	z-index: 114;
 	height: 100px;
 	top: 0px;
 }
 
 #u574-bw
 {
-	z-index: 112;
+	z-index: 114;
 }
 
 #u672
@@ -89,7 +89,7 @@
 
 #menuu540
 {
-	z-index: 116;
+	z-index: 118;
 	width: 1084px;
 	top: 20px;
 	left: 50%;
@@ -281,7 +281,7 @@
 
 #u572
 {
-	z-index: 114;
+	z-index: 116;
 	width: 158px;
 	top: 27px;
 	left: 50%;
@@ -406,7 +406,7 @@
 {
 	width: 0.01px;
 	position: relative;
-	left: 443px;
+	left: 391px;
 	padding-top: 26px;
 	z-index: 2;
 	padding-bottom: 33px;
@@ -418,29 +418,46 @@
 	width: 808px;
 	border-style: none;
 	border-color: transparent;
-	padding-bottom: 23px;
+	padding-bottom: 80px;
 	position: relative;
 	margin-right: -10000px;
 	background: transparent url("../images/shop_01-u409-fr.png") no-repeat left top;
 }
 
-#u845-4
+#u1289
 {
 	z-index: 72;
+	width: 664px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 138px;
+	left: -215px;
+}
+
+#u578,#u578-bw
+{
+	z-index: 5;
+	height: 911px;
+}
+
+#u845-4
+{
+	z-index: 74;
 	width: 475px;
 	min-height: 114px;
 	background-color: #3B4730;
 	border-radius: 30px;
-	line-height: 130px;
 	text-align: center;
 	font-size: 52px;
+	line-height: 130px;
 	color: #FFFFFF;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 438px;
-	left: -40px;
+	margin-top: 650px;
+	left: 503px;
 }
 
 #u845-4::before
@@ -455,12 +472,6 @@
 	right: 0px;
 	border-radius: 30px;
 	box-shadow: inset 13px 13px 19px rgba(255,255,255,0.2), inset -13px -13px 19px rgba(0,0,0,0.2);
-}
-
-#u578,#u578-bw
-{
-	z-index: 5;
-	height: 911px;
 }
 
 #u585,#u585-bw
@@ -503,9 +514,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -8px;
@@ -539,7 +550,7 @@
 
 #u411
 {
-	z-index: 76;
+	z-index: 78;
 	width: 808px;
 	border-style: none;
 	border-color: transparent;
@@ -554,7 +565,7 @@
 
 #u636
 {
-	z-index: 99;
+	z-index: 101;
 	width: 140px;
 	min-height: 70px;
 	border-style: none;
@@ -568,7 +579,7 @@
 
 #u1055
 {
-	z-index: 102;
+	z-index: 104;
 	width: 300px;
 	background-color: transparent;
 	position: relative;
@@ -579,7 +590,7 @@
 
 #u1041
 {
-	z-index: 100;
+	z-index: 102;
 	width: 301px;
 	background-color: transparent;
 	position: relative;
@@ -629,7 +640,7 @@
 
 #u1120
 {
-	z-index: 110;
+	z-index: 112;
 	width: 158px;
 	background-color: transparent;
 	position: relative;
@@ -639,12 +650,12 @@
 
 #u1117-4
 {
-	z-index: 106;
+	z-index: 108;
 	width: 119px;
 	min-height: 54px;
 	background-color: transparent;
-	line-height: 49px;
 	font-size: 41px;
+	line-height: 49px;
 	color: #FFFFFF;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-style: italic;
@@ -661,7 +672,7 @@
 
 #u1105
 {
-	z-index: 104;
+	z-index: 106;
 	width: 400px;
 	background-color: transparent;
 	position: relative;
@@ -686,15 +697,15 @@
 
 #u1113-11
 {
-	z-index: 88;
+	z-index: 90;
 	width: 400px;
 	min-height: 121px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	color: #E5E5E5;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
@@ -703,15 +714,15 @@
 
 #u1111-11
 {
-	z-index: 77;
+	z-index: 79;
 	width: 394px;
 	min-height: 121px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	color: #E5E5E5;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;

@@ -1,19 +1,19 @@
-.version.shop /* version checker */
+.version.shop_instructions_2017_01_01 /* version checker */
 {
-	color: #00000F;
-	background-color: #A28F38;
+	color: #0000F4;
+	background-color: #18A0B2;
 }
 
 .html
 {
-	background-color: #273033;
+	background-color: #262F33;
 }
 
 #page
 {
 	z-index: 1;
 	width: 1271px;
-	min-height: 1054px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -22,7 +22,7 @@
 	margin-right: auto;
 }
 
-#pu1074
+#pu1268
 {
 	width: 0.01px;
 	margin-right: -10000px;
@@ -30,16 +30,16 @@
 	margin-left: -100px;
 }
 
-#u1074
+#u1268
 {
 	z-index: 2;
-	min-height: 780px;
-	padding-bottom: 131px;
+	min-height: 1530px;
+	padding-bottom: 115px;
 	background: transparent url("../images/muse_blur.jpg") no-repeat center top;
 	background-size: cover;
 }
 
-#u1074_align_to_page
+#u1268_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -48,28 +48,28 @@
 	left: -100px;
 }
 
-#u1078
+#u1271
 {
 	z-index: 24;
 	width: 1280px;
 	background-color: #455943;
-	padding-bottom: 146px;
+	padding-bottom: 93px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 121px;
 	left: 96px;
 }
 
-#pu1077
+#pu1272
 {
 	z-index: 25;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 139px;
+	margin-top: 77px;
 }
 
-#u1077
+#u1272
 {
 	z-index: 0;
 	width: 1280px;
@@ -82,64 +82,102 @@
 	bottom: 0px;
 }
 
-#pu1079-16
+#pu1273-15
 {
 	width: 0.01px;
 	position: relative;
-	left: 29px;
-	padding-top: 49px;
+	left: 171px;
+	padding-top: 110px;
 	z-index: 2;
-	padding-bottom: 30px;
+	padding-bottom: 99px;
 }
 
-#u1079-16
+#u1273-15
 {
 	z-index: 26;
-	width: 394px;
-	min-height: 295px;
+	width: 411px;
+	min-height: 806px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: left;
-	font-size: 16px;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1079-2,#u1079-3,#u1079-7,#u1079-8,#u1079-9,#u1079-11,#u1079-12,#u1079-14
+#u1273-2,#u1273-3,#u1273-4
 {
+	font-size: 22px;
+	line-height: 26px;
 	padding-right: 28px;
 }
 
-#u1074-bw
+#u1274-48
 {
-	z-index: 2;
-	min-height: 780px;
+	z-index: 41;
+	width: 528px;
+	min-height: 1030px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: left;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 548px;
 }
 
-#u1085
+#u1273-5,#u1273-7,#u1273-8,#u1273-10,#u1273-11,#u1273-13,#u1274-2,#u1274-3,#u1274-6,#u1274-8,#u1274-9,#u1274-12,#u1274-13,#u1274-15
 {
-	z-index: 42;
+	font-size: 20px;
+	line-height: 24px;
+	padding-right: 28px;
+}
+
+#u1274-5,#u1274-11,#u1274-16,#u1274-18,#u1274-19,#u1274-20,#u1274-22,#u1274-23,#u1274-25,#u1274-26,#u1274-28,#u1274-29,#u1274-31,#u1274-32,#u1274-33,#u1274-34,#u1274-36,#u1274-37,#u1274-39,#u1274-40,#u1274-42,#u1274-43,#u1274-45
+{
+	font-size: 20px;
+	line-height: 24px;
+	padding-right: 28px;
+	padding-left: 80px;
+}
+
+#u1274-46
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding-right: 28px;
+}
+
+#u1268-bw
+{
+	z-index: 2;
+	min-height: 1530px;
+}
+
+#u1275
+{
+	z-index: 89;
 	height: 121px;
 	background: transparent url("../images/sa%20croix_muse3.png") no-repeat center center;
 }
 
-#u1085-bw
+#u1275-bw
 {
-	z-index: 42;
+	z-index: 89;
 	height: 121px;
 }
 
-#pu1075-15
+#pu1269-15
 {
 	width: 0.01px;
-	margin: 903px -10000px -18px 99px;
+	margin: 1645px -10000px -205px 99px;
 }
 
-#u1075-15
+#u1269-15
 {
 	z-index: 3;
 	width: 769px;
@@ -150,7 +188,7 @@
 	margin-right: -10000px;
 }
 
-#u1076-6
+#u1270-6
 {
 	z-index: 18;
 	width: 645px;
@@ -168,12 +206,12 @@ body
 	position: relative;
 	min-width: 1271px;
 	padding-top: 36px;
-	padding-bottom: 36px;
+	padding-bottom: 223px;
 }
 
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -903px;
+	margin-bottom: -1645px;
 }
 

@@ -1,19 +1,19 @@
-.version.shop /* version checker */
+.version.shop_2017_01_01 /* version checker */
 {
-	color: #00000F;
-	background-color: #A28F38;
+	color: #000002;
+	background-color: #5DA712;
 }
 
 .html
 {
-	background-color: #273033;
+	background-color: #262F33;
 }
 
 #page
 {
 	z-index: 1;
 	width: 1271px;
-	min-height: 1054px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -22,7 +22,7 @@
 	margin-right: auto;
 }
 
-#pu1074
+#pu1261
 {
 	width: 0.01px;
 	margin-right: -10000px;
@@ -30,7 +30,7 @@
 	margin-left: -100px;
 }
 
-#u1074
+#u1261
 {
 	z-index: 2;
 	min-height: 780px;
@@ -39,7 +39,7 @@
 	background-size: cover;
 }
 
-#u1074_align_to_page
+#u1261_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -48,7 +48,7 @@
 	left: -100px;
 }
 
-#u1078
+#u1264
 {
 	z-index: 24;
 	width: 1280px;
@@ -60,7 +60,7 @@
 	left: 96px;
 }
 
-#pu1077
+#pu1265
 {
 	z-index: 25;
 	width: 0.01px;
@@ -69,7 +69,7 @@
 	margin-top: 139px;
 }
 
-#u1077
+#u1265
 {
 	z-index: 0;
 	width: 1280px;
@@ -82,17 +82,17 @@
 	bottom: 0px;
 }
 
-#pu1079-16
+#pu1266-16
 {
 	width: 0.01px;
 	position: relative;
 	left: 29px;
-	padding-top: 49px;
+	padding-top: 30px;
 	z-index: 2;
 	padding-bottom: 30px;
 }
 
-#u1079-16
+#u1266-16
 {
 	z-index: 26;
 	width: 394px;
@@ -107,39 +107,127 @@
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 19px;
 }
 
-#u1079-2,#u1079-3,#u1079-7,#u1079-8,#u1079-9,#u1079-11,#u1079-12,#u1079-14
+#u1266-2,#u1266-3,#u1266-7,#u1266-8,#u1266-9,#u1266-11,#u1266-12,#u1266-14
 {
 	padding-right: 28px;
 }
 
-#u1074-bw
+#pu1277
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 549px;
+}
+
+#u1277
+{
+	z-index: 43;
+	width: 350px;
+	background-color: transparent;
+	margin-left: 262px;
+	position: relative;
+}
+
+#pu1282-8
+{
+	width: 0.01px;
+	margin-top: 9px;
+}
+
+#u1282-8
+{
+	z-index: 53;
+	width: 296px;
+	min-height: 21px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1282-2
+{
+	font-size: 15px;
+	line-height: 18px;
+}
+
+#u1280-8
+{
+	z-index: 45;
+	width: 296px;
+	min-height: 21px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 334px;
+}
+
+#u1282-4,#u1280-4
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1280-2
+{
+	font-size: 16px;
+	line-height: 19px;
+}
+
+#u1282,#u1282-3,#u1280,#u1280-3
+{
+	line-height: 22px;
+}
+
+#u1261-bw
 {
 	z-index: 2;
 	min-height: 780px;
 }
 
-#u1085
+#u1267
 {
 	z-index: 42;
 	height: 121px;
 	background: transparent url("../images/sa%20croix_muse3.png") no-repeat center center;
 }
 
-#u1085-bw
+#u1267-bw
 {
 	z-index: 42;
 	height: 121px;
 }
 
-#pu1075-15
+#u1283
 {
-	width: 0.01px;
-	margin: 903px -10000px -18px 99px;
+	z-index: 61;
+	width: 288px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 336px;
+	left: 678px;
 }
 
-#u1075-15
+#pu1262-15
+{
+	width: 0.01px;
+	margin: 896px -10000px -190px 99px;
+}
+
+#u1262-15
 {
 	z-index: 3;
 	width: 769px;
@@ -150,7 +238,7 @@
 	margin-right: -10000px;
 }
 
-#u1076-6
+#u1263-6
 {
 	z-index: 18;
 	width: 645px;
@@ -168,12 +256,12 @@ body
 	position: relative;
 	min-width: 1271px;
 	padding-top: 36px;
-	padding-bottom: 36px;
+	padding-bottom: 198px;
 }
 
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -903px;
+	margin-bottom: -896px;
 }
 
