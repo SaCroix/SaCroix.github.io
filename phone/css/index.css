@@ -1,32 +1,32 @@
 .version.index /* version checker */
 {
-	color: #0000E4;
-	background-color: #8B7D0F;
+	color: #0000F1;
+	background-color: #1FC32C;
 }
 
 @-ms-viewport
 {
-	width: 1080px;
+	width: 1100px;
 }
 
 @-webkit-viewport
 {
-	width: 1080px;
+	width: 1100px;
 }
 
 @-o-viewport
 {
-	width: 1080px;
+	width: 1100px;
 }
 
 @-moz-viewport
 {
-	width: 1080px;
+	width: 1100px;
 }
 
 @viewport
 {
-	width: 1080px;
+	width: 1100px;
 }
 
 .html
@@ -38,12 +38,34 @@
 {
 	z-index: 1;
 	width: 1080px;
-	min-height: 569.9500000000007px;
+	min-height: 569.9030590876882px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	padding-bottom: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#u793,#u793-bw
+{
+	z-index: 70;
+	height: 76px;
+}
+
+#homemobile
+{
+	width: 22px;
+	margin-right: -10000px;
+	left: 449px;
+}
+
+#pu781
+{
+	width: 0.01px;
+	padding-bottom: 1920px;
+	margin-top: -76px;
 }
 
 #u781
@@ -76,34 +98,9 @@
 	top: 0px;
 }
 
-#page_position_content,#pu793
-{
-	width: 0.01px;
-}
-
-#u793,#u793-bw
-{
-	z-index: 68;
-	height: 76px;
-}
-
-#homemobile
-{
-	width: 22px;
-	margin-right: -10000px;
-	left: 449px;
-}
-
-#pu794
-{
-	width: 0.01px;
-	padding-bottom: 76px;
-	margin-top: -76px;
-}
-
 #u794
 {
-	z-index: 69;
+	z-index: 71;
 	height: 76px;
 }
 
@@ -112,13 +109,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 69;
+	z-index: 71;
 	top: 0px;
 }
 
 #menuu797
 {
-	z-index: 70;
+	z-index: 72;
 	width: 1065px;
 	top: 13px;
 	left: 7px;
@@ -311,10 +308,17 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu783
+#u1303
+{
+	z-index: 27;
+	margin-left: 411px;
+	top: -283px;
+	margin-bottom: -150px;
+}
+
+#page_position_content,#pu793,#pu783
 {
 	width: 0.01px;
-	margin-top: 1844px;
 }
 
 #u783,#u783-bw
@@ -390,7 +394,7 @@
 
 #u1161
 {
-	z-index: 27;
+	z-index: 29;
 	width: 976px;
 	height: 621px;
 	border-style: none;
@@ -424,7 +428,7 @@
 
 #u1162
 {
-	z-index: 28;
+	z-index: 30;
 	vertical-align: top;
 	width: 1664px;
 	height: 1274px;
@@ -436,7 +440,7 @@
 
 #u1163-4
 {
-	z-index: 29;
+	z-index: 31;
 	width: 715px;
 	min-height: 177px;
 	background-color: #3B4730;
@@ -477,6 +481,7 @@
 #pu786
 {
 	width: 0.01px;
+	margin-left: -10px;
 	margin-top: 1px;
 }
 
@@ -488,7 +493,7 @@
 
 #u1164-7
 {
-	z-index: 33;
+	z-index: 35;
 	min-height: 562px;
 	border-style: none;
 	border-color: transparent;
@@ -508,20 +513,20 @@
 
 #u1164-7-bw
 {
-	z-index: 33;
+	z-index: 35;
 	min-height: 562px;
 	margin-top: 192px;
 }
 
 #u1165
 {
-	z-index: 40;
+	z-index: 42;
 	width: 600px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 494px;
-	left: 240px;
+	left: 250px;
 }
 
 #u1165_img
@@ -532,25 +537,26 @@
 
 #u1167
 {
-	z-index: 42;
+	z-index: 44;
 	width: 606px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1145px;
-	left: 237px;
+	left: 247px;
 }
 
 #socialmediamobile
 {
 	width: 22px;
 	margin-right: -10000px;
-	left: 505px;
+	left: 515px;
 }
 
 #pu785
 {
 	width: 0.01px;
+	margin-left: -10px;
 	margin-top: -1px;
 }
 
@@ -562,18 +568,18 @@
 
 #u1283
 {
-	z-index: 44;
+	z-index: 46;
 	width: 585px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 255px;
-	left: 247px;
+	left: 257px;
 }
 
 #u1285-7
 {
-	z-index: 46;
+	z-index: 48;
 	min-height: 121px;
 	border-style: none;
 	border-color: transparent;
@@ -587,14 +593,14 @@
 
 #u1285-7-bw
 {
-	z-index: 46;
+	z-index: 48;
 	min-height: 121px;
 	margin-top: 869px;
 }
 
 #u1286-7
 {
-	z-index: 53;
+	z-index: 55;
 	min-height: 121px;
 	border-style: none;
 	border-color: transparent;
@@ -608,25 +614,25 @@
 
 #u1286-7-bw
 {
-	z-index: 53;
+	z-index: 55;
 	min-height: 121px;
 	margin-top: 1695px;
 }
 
 #u1287
 {
-	z-index: 60;
+	z-index: 62;
 	width: 585px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1076px;
-	left: 247px;
+	left: 257px;
 }
 
 #u1289-4
 {
-	z-index: 62;
+	z-index: 64;
 	width: 363px;
 	min-height: 54px;
 	background-color: transparent;
@@ -638,25 +644,25 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 62px;
-	left: 536px;
+	left: 546px;
 }
 
 #u1290
 {
-	z-index: 66;
+	z-index: 68;
 	width: 245px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 68px;
-	left: 284px;
+	left: 294px;
 }
 
 #teammobile
 {
 	width: 22px;
 	margin-right: -10000px;
-	left: 528px;
+	left: 538px;
 }
 
 body

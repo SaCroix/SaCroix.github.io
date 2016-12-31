@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #4A5164;
+	color: #000004;
+	background-color: #C1088F;
 }
 
 .html
@@ -28,14 +28,14 @@
 	width: 0.01px;
 }
 
-#u569
+#u574
 {
 	z-index: 113;
 	height: 100px;
 	top: 0px;
 }
 
-#u569-bw
+#u574-bw
 {
 	z-index: 113;
 }
@@ -55,18 +55,6 @@
 	top: 0px;
 }
 
-#u574
-{
-	z-index: 112;
-	height: 100px;
-	top: 0px;
-}
-
-#u574-bw
-{
-	z-index: 112;
-}
-
 #u672
 {
 	z-index: 2;
@@ -82,6 +70,18 @@
 	top: 0px;
 }
 
+#u569
+{
+	z-index: 114;
+	height: 100px;
+	top: 0px;
+}
+
+#u569-bw
+{
+	z-index: 114;
+}
+
 #home
 {
 	margin-left: 629px;
@@ -89,7 +89,7 @@
 
 #menuu540
 {
-	z-index: 116;
+	z-index: 117;
 	width: 1084px;
 	top: 20px;
 	left: 50%;
@@ -281,7 +281,7 @@
 
 #u572
 {
-	z-index: 114;
+	z-index: 115;
 	width: 158px;
 	top: 27px;
 	left: 50%;
@@ -293,11 +293,18 @@
 	padding-right: 1px;
 }
 
+#u1309
+{
+	z-index: 111;
+	margin-left: 587px;
+	margin-top: 776px;
+}
+
 #ppu366
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 892px;
+	margin-top: 10px;
 }
 
 #pu366
@@ -544,7 +551,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 82px;
+	padding-bottom: 139px;
 	margin-bottom: -75px;
 	position: relative;
 	margin-right: -10000px;
@@ -552,40 +559,26 @@
 	left: 443px;
 }
 
-#u636
+#u1041
 {
 	z-index: 99;
-	width: 140px;
-	min-height: 70px;
-	border-style: none;
-	border-color: transparent;
+	width: 301px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 439px;
-	left: 252px;
+	margin-top: 149px;
+	left: 124px;
 }
 
 #u1055
 {
-	z-index: 102;
+	z-index: 101;
 	width: 300px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 152px;
 	left: 453px;
-}
-
-#u1041
-{
-	z-index: 100;
-	width: 301px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 369px;
-	left: 667px;
 }
 
 #pu373
@@ -629,7 +622,7 @@
 
 #u1120
 {
-	z-index: 110;
+	z-index: 109;
 	width: 158px;
 	background-color: transparent;
 	position: relative;
@@ -639,7 +632,7 @@
 
 #u1117-4
 {
-	z-index: 106;
+	z-index: 105;
 	width: 119px;
 	min-height: 54px;
 	background-color: transparent;
@@ -661,7 +654,7 @@
 
 #u1105
 {
-	z-index: 104;
+	z-index: 103;
 	width: 400px;
 	background-color: transparent;
 	position: relative;

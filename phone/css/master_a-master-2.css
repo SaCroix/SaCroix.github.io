@@ -1,3 +1,11 @@
+#u793
+{
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+}
+
 #u781
 {
 	background: #73FBFF url("../../images/muse.jpg") no-repeat center top;
@@ -11,14 +19,6 @@
 	filter: alpha(opacity=0);
 	background: transparent url("../../images/muse_blur.jpg") no-repeat center top;
 	background-size: cover;
-}
-
-#u793
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
 }
 
 #u794
@@ -150,6 +150,12 @@
 	cursor: pointer;
 }
 
+#u1303_img
+{
+	display: block;
+	vertical-align: top;
+}
+
 #u783,#u786
 {
 	background-color: #283033;
@@ -166,7 +172,7 @@
 	filter: alpha(opacity=50);
 }
 
-#homemobile,#storymobile,#shopmobile,#socialmediamobile,#teammobile
+#homemobile,#u1303,#storymobile,#shopmobile,#socialmediamobile,#teammobile
 {
 	position: relative;
 }

@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1483200481982">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1483201861791">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master-2.css" crc="3849544551" ref="phone>index"/>
-      <file name="index.css" crc="3834346767" ref="phone>index"/>
+      <file name="master_a-master-2.css" crc="4291423869" ref="phone>index"/>
+      <file name="index.css" crc="4045390636" ref="phone>index"/>
       <file name="shop.css" crc="508901035" ref="phone>shop"/>
     </folder>
-    <file name="index.html" crc="422917637" seo="true" mt="1483200446299" redirect="true"/>
+    <file name="index.html" crc="76292229" seo="true" mt="1483201828833" redirect="true"/>
     <file name="shop.html" crc="249736673" seo="true" mt="1483199876512" redirect="false"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master-2.css" crc="342267411" ref="index"/>
-    <file name="index.css" crc="4064956772" ref="index"/>
+    <file name="master_a-master-2.css" crc="441616631" ref="index"/>
+    <file name="index.css" crc="79759503" ref="index"/>
     <file name="shop.css" crc="461960192" ref="shop"/>
     <file name="shop-instructions.css" crc="3791577677" ref="shop-instructions"/>
   </folder>
@@ -31,18 +31,22 @@
     <file name="story_01.jpg" crc="4171113003" ref="index:phone>index"/>
     <file name="muse.jpg" crc="4290151289" ref="index:phone>index"/>
     <file name="muse_blur.jpg" crc="317673932" ref="index:phone>index:shop:shop-instructions"/>
-    <file name="logo_instagram.png" crc="490416848" seo="true" ref="index:phone>index"/>
-    <file name="logo_facebook.png" crc="4127500559" seo="true" ref="index:phone>index"/>
+    <file name="logo_instagram.png" crc="490416848" seo="true" ref="phone>index"/>
+    <file name="logo_facebook.png" crc="4127500559" seo="true" ref="phone>index"/>
     <file name="alex_portrait.jpg" crc="408705140" seo="true" ref="index:phone>index"/>
     <file name="jules_portrait.jpg" crc="3895915467" seo="true" ref="index:phone>index"/>
     <file name="shop_01-u409-fr.png" crc="338509949" ref="index"/>
-    <file name="sa croix_muse2.png" crc="472733585" ref="index:shop"/>
+    <file name="sa croix_muse2.png" crc="472733585" ref="index:shop" seo="true"/>
     <file name="sa croix_muse3.png" crc="472733585" ref="shop-instructions"/>
     <file name="shop_01-u1162.png" crc="4037619256" ref="phone>index"/>
     <file name="sacroix cap.png" crc="3863331933" seo="true" ref="shop"/>
     <file name="shop_01350x257.png" crc="381529759" seo="true" ref="shop"/>
+    <file name="pfeil mobile-u1303.png" crc="4159141601" ref="phone>index"/>
+    <file name="pfeil desktop-u1309.png" crc="4014954153" ref="index"/>
+    <file name="logo_instagram300x300.png" crc="3867389807" seo="true" ref="index"/>
+    <file name="logo_facebook301x301.png" crc="118476284" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4239816383" seo="true" mt="1483026319940" redirect="true"/>
+  <file name="index.html" crc="3949959845" seo="true" mt="1483201841986" redirect="true"/>
   <file name="shop.html" crc="4223194509" seo="true" mt="1483199869359" redirect="true"/>
   <file name="shop-instructions.html" crc="512923814" seo="true" mt="1482999359595" redirect="true"/>
 </manifest>

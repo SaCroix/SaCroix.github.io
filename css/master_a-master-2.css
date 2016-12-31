@@ -1,9 +1,9 @@
-#u569
+#u574
 {
-	background-color: #4B554B;
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
 	position: fixed;
 }
 
@@ -16,26 +16,26 @@
 	background-size: cover;
 }
 
-.js #u569.ose_pre_init,.js #u715.ose_pre_init
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-}
-
-#u574
-{
-	background-color: #FFFFFF;
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-	position: fixed;
-}
-
 #u672
 {
 	background: #73FBFF url("../images/muse.jpg") no-repeat center top;
 	background-size: cover;
+}
+
+#u569
+{
+	background-color: #4B554B;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: fixed;
+}
+
+.js #u715.ose_pre_init,.js #u569.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 }
 
 #menuu540
@@ -158,6 +158,12 @@
 	position: fixed;
 }
 
+#u1309_img
+{
+	display: block;
+	vertical-align: top;
+}
+
 #u589,#u585
 {
 	background-color: #283033;
@@ -179,7 +185,7 @@
 	background-color: #1F211A;
 }
 
-#home,#story,#shop,#socialmedia,#contact,#u586_align_to_page
+#home,#u1309,#story,#shop,#socialmedia,#contact,#u586_align_to_page
 {
 	position: relative;
 }
