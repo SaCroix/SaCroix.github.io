@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1483203153630">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1483203577798">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master-2.css" crc="4246960649" ref="phone>index"/>
-      <file name="index.css" crc="4077641504" ref="phone>index"/>
+      <file name="master_a-master-2.css" crc="314350673" ref="phone>index"/>
+      <file name="index.css" crc="33472611" ref="phone>index"/>
       <file name="shop.css" crc="508901035" ref="phone>shop"/>
     </folder>
-    <file name="index.html" crc="4122417769" seo="true" mt="1483203143898" redirect="true"/>
+    <file name="index.html" crc="4006712725" seo="true" mt="1483203552333" redirect="true"/>
     <file name="shop.html" crc="249736673" seo="true" mt="1483199876512" redirect="false"/>
   </folder>
   <folder name="css">
@@ -30,7 +30,7 @@
     <file name="sa croix_muse.png" crc="472733585" ref="index:phone>index" seo="true"/>
     <file name="story_01.jpg" crc="4171113003" ref="index:phone>index"/>
     <file name="muse.jpg" crc="4290151289" ref="index:phone>index"/>
-    <file name="muse_blur.jpg" crc="317673932" ref="index:phone>index:shop:shop-instructions"/>
+    <file name="muse_blur.jpg" crc="317673932" ref="index:shop:shop-instructions"/>
     <file name="logo_instagram.png" crc="490416848" seo="true" ref="phone>index"/>
     <file name="logo_facebook.png" crc="4127500559" seo="true" ref="phone>index"/>
     <file name="alex_portrait.jpg" crc="408705140" seo="true" ref="index:phone>index"/>
@@ -46,6 +46,7 @@
     <file name="logo_facebook301x301.png" crc="118476284" seo="true" ref="index"/>
     <file name="sacroix cap-u1323.png" crc="233676197" ref="index"/>
     <file name="sacroix cap-u1237.png" crc="151288331" ref="shop"/>
+    <file name="muse_blur-u782-fr.jpg" crc="31274925" ref="phone>index"/>
   </folder>
   <file name="index.html" crc="3913870647" seo="true" mt="1483202214902" redirect="true"/>
   <file name="shop.html" crc="3927905104" seo="true" mt="1483202278813" redirect="true"/>
