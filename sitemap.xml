@@ -31,12 +31,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/sa%20croix_muse2.png</loc>
-    <lastmod>2016-12-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://sacroix.github.io/images/sacroix%20cap.png</loc>
     <lastmod>2016-12-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -49,14 +43,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/sacroix%20cap289x162.png</loc>
-    <lastmod>2016-12-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://sacroix.github.io/index.html</loc>
-    <lastmod>2016-12-31</lastmod>
+    <lastmod>2016-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://sacroix.github.io/phone/index.html"/>
@@ -70,18 +58,6 @@
   <url>
     <loc>http://sacroix.github.io/shop-instructions.html</loc>
     <lastmod>2016-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/shop-2017-01-01.html</loc>
-    <lastmod>2016-12-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/shop-instructions-2017-01-01.html</loc>
-    <lastmod>2016-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

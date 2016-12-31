@@ -1,7 +1,7 @@
 .version.shop /* version checker */
 {
-	color: #00000F;
-	background-color: #A28F38;
+	color: #00001B;
+	background-color: #88F400;
 }
 
 .html
@@ -33,8 +33,8 @@
 #u1074
 {
 	z-index: 2;
-	min-height: 780px;
-	padding-bottom: 131px;
+	min-height: 781px;
+	padding-bottom: 132px;
 	background: transparent url("../images/muse_blur.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -53,7 +53,7 @@
 	z-index: 24;
 	width: 1280px;
 	background-color: #455943;
-	padding-bottom: 146px;
+	padding-bottom: 148px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 121px;
@@ -82,54 +82,196 @@
 	bottom: 0px;
 }
 
-#pu1079-16
+#pu1233
 {
 	width: 0.01px;
 	position: relative;
-	left: 29px;
-	padding-top: 49px;
+	left: 311px;
+	padding-top: 7px;
 	z-index: 2;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 }
 
-#u1079-16
+#u1233
 {
-	z-index: 26;
-	width: 394px;
-	min-height: 295px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 38;
+	width: 350px;
 	background-color: transparent;
-	text-align: left;
-	font-size: 16px;
-	line-height: 19px;
+	margin-left: 262px;
+	position: relative;
+}
+
+#pu1236-6
+{
+	width: 0.01px;
+	margin-top: 9px;
+}
+
+#u1236-6
+{
+	z-index: 46;
+	width: 296px;
+	min-height: 21px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1079-2,#u1079-3,#u1079-7,#u1079-8,#u1079-9,#u1079-11,#u1079-12,#u1079-14
+#u1235-6
 {
-	padding-right: 28px;
+	z-index: 40;
+	width: 296px;
+	min-height: 21px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 334px;
+}
+
+#pu1262-4
+{
+	width: 0.01px;
+	margin-left: 296px;
+	margin-top: 13px;
+}
+
+#u1262-4
+{
+	z-index: 26;
+	width: 27px;
+	min-height: 26px;
+	background-color: transparent;
+	font-size: 22px;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1264-4
+{
+	z-index: 30;
+	width: 27px;
+	min-height: 26px;
+	background-color: transparent;
+	font-size: 22px;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 129px;
+}
+
+#u1265-4
+{
+	z-index: 34;
+	width: 27px;
+	min-height: 26px;
+	background-color: transparent;
+	font-size: 22px;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 266px;
 }
 
 #u1074-bw
 {
 	z-index: 2;
-	min-height: 780px;
+	min-height: 781px;
+}
+
+#u1237
+{
+	z-index: 52;
+	width: 288px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 313px;
+	left: 410px;
+}
+
+#u1244
+{
+	z-index: 54;
+	width: 109px;
+	min-height: 47px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 584px;
+	left: 853px;
+}
+
+#u1260
+{
+	z-index: 55;
+	width: 109px;
+	min-height: 47px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 584px;
+	left: 983px;
+}
+
+#u1256
+{
+	z-index: 56;
+	width: 109px;
+	min-height: 47px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 584px;
+	left: 716px;
+}
+
+#u1248
+{
+	z-index: 57;
+	width: 144px;
+	min-height: 51px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 584px;
+	left: 499px;
 }
 
 #u1085
 {
-	z-index: 42;
+	z-index: 58;
 	height: 121px;
-	background: transparent url("../images/sa%20croix_muse3.png") no-repeat center center;
+	background: transparent url("../images/sa%20croix_muse2.png") no-repeat center center;
 }
 
 #u1085-bw
 {
-	z-index: 42;
+	z-index: 58;
 	height: 121px;
 }
 
