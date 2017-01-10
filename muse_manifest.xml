@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1483203577798">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1484089039842">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master-2.css" crc="314350673" ref="phone>index"/>
@@ -10,9 +10,9 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master-2.css" crc="441616631" ref="index"/>
-    <file name="index.css" crc="275722165" ref="index"/>
-    <file name="shop.css" crc="405113315" ref="shop"/>
+    <file name="master_a-master-2.css" crc="3760738260" ref="index"/>
+    <file name="index.css" crc="79632008" ref="index"/>
+    <file name="shop.css" crc="3943780736" ref="shop"/>
     <file name="shop-instructions.css" crc="3791577677" ref="shop-instructions"/>
   </folder>
   <folder name="scripts">
@@ -39,16 +39,16 @@
     <file name="sa croix_muse2.png" crc="472733585" ref="index" seo="true"/>
     <file name="sa croix_muse3.png" crc="472733585" ref="shop-instructions:shop"/>
     <file name="shop_01-u1162.png" crc="4037619256" ref="phone>index"/>
-    <file name="shop_01350x257.png" crc="381529759" seo="true" ref="shop"/>
     <file name="pfeil mobile-u1303.png" crc="4159141601" ref="phone>index"/>
     <file name="pfeil desktop-u1309.png" crc="4014954153" ref="index"/>
     <file name="logo_instagram300x300.png" crc="3867389807" seo="true" ref="index"/>
     <file name="logo_facebook301x301.png" crc="118476284" seo="true" ref="index"/>
     <file name="sacroix cap-u1323.png" crc="233676197" ref="index"/>
-    <file name="sacroix cap-u1237.png" crc="151288331" ref="shop"/>
+    <file name="sacroix cap-u1237.png" crc="4208205129" ref="shop"/>
     <file name="muse_blur-u782-fr.jpg" crc="31274925" ref="phone>index"/>
+    <file name="sacroix shirt ansicht.swf" crc="3896091775" ref="shop"/>
   </folder>
-  <file name="index.html" crc="3913870647" seo="true" mt="1483202214902" redirect="true"/>
-  <file name="shop.html" crc="3927905104" seo="true" mt="1483202278813" redirect="true"/>
+  <file name="index.html" crc="248913625" seo="true" mt="1483479087356" redirect="true"/>
+  <file name="shop.html" crc="3850939143" seo="true" mt="1484089025501" redirect="true"/>
   <file name="shop-instructions.html" crc="512923814" seo="true" mt="1482999359595" redirect="true"/>
 </manifest>
