@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1484175197535">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1484175528661">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master-2.css" crc="314350673" ref="phone>index"/>
@@ -53,15 +53,15 @@
     <file name="sacroix cap-u1237.png" crc="169785677" ref="shop"/>
     <file name="muse_blur-u782-fr.jpg" crc="31274925" ref="phone>index"/>
     <file name="sacroix shirt ansicht.swf" crc="3896091775" ref="shop"/>
-    <file name="sacroix_cap_quickview_black.swf" crc="3944828961" ref="shop-alternative"/>
-    <file name="sacroix_cap_quickview_red.swf" crc="4289164867" ref="shop-alternative"/>
+    <file name="sacroix_cap_quickview_black.swf" crc="4131823896" ref="shop-alternative"/>
+    <file name="sacroix_cap_quickview_red.swf" crc="86130545" ref="shop-alternative"/>
     <file name="sacroix_cap_top_soon.jpg" crc="4121945566" seo="true" ref="shop-alternative"/>
-    <file name="sacroix_cap_quickview_grey.swf" crc="18848672" ref="shop-alternative"/>
+    <file name="sacroix_cap_quickview_grey.swf" crc="4100193239" ref="shop-alternative"/>
   </folder>
   <file name="index.html" crc="285706061" seo="true" mt="1484172484949" redirect="true"/>
   <file name="shop.html" crc="3986461794" seo="true" mt="1484168085945" redirect="true"/>
   <file name="shop-instructions.html" crc="512923814" seo="true" mt="1482999359595" redirect="true"/>
-  <file name="shop-alternative.html" crc="396389753" seo="true" mt="1484175190550" redirect="true"/>
+  <file name="shop-alternative.html" crc="396389753" seo="true" mt="1484175524170" redirect="true"/>
   <file name="artikel-0000.html" crc="4056963176" seo="true" mt="1484172328832" redirect="true"/>
   <file name="artikel-0001.html" crc="216394502" seo="true" mt="1484172342619" redirect="true"/>
   <file name="artikel-0002.html" crc="3846446559" seo="true" mt="1484172353078" redirect="true"/>
