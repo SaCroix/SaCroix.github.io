@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1484177122621">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1484177544038">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master-2.css" crc="314350673" ref="phone>index"/>
@@ -16,27 +16,27 @@
     <file name="shop-instructions.css" crc="3791577677" ref="shop-instructions"/>
     <file name="master_shop-alternative.css" crc="230783340" ref="shop-alternative:artikel-0001:artikel-0002:artikel-0000:artikel-0003"/>
     <file name="shop-alternative.css" crc="93843358" ref="shop-alternative"/>
-    <file name="artikel-0001.css" crc="3919261512" ref="artikel-0001"/>
-    <file name="artikel-0002.css" crc="502789487" ref="artikel-0002"/>
+    <file name="artikel-0001.css" crc="4209840658" ref="artikel-0001"/>
+    <file name="artikel-0002.css" crc="4027353669" ref="artikel-0002"/>
     <file name="artikel-0000.css" crc="4144119950" ref="artikel-0000"/>
-    <file name="artikel-0003.css" crc="3893693798" ref="artikel-0003"/>
+    <file name="artikel-0003.css" crc="485281727" ref="artikel-0003"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index:shop:shop-instructions:phone>shop:shop-alternative:artikel-0000:artikel-0001:artikel-0002:artikel-0003"/>
     <file name="museutils.js" crc="183364071" ref="index:phone>index:shop:shop-instructions:phone>shop:shop-alternative:artikel-0000:artikel-0001:artikel-0002:artikel-0003"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:phone>index"/>
     <file name="jquery.musemenu.js" crc="3957776250" ref="index:phone>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:phone>index:shop:shop-instructions:shop-alternative"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:phone>index:shop:shop-instructions:shop-alternative:artikel-0000"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:phone>index:shop:shop-instructions:phone>shop:shop-alternative:artikel-0000:artikel-0001:artikel-0002:artikel-0003"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index:shop-instructions:phone>shop:shop:artikel-0001:artikel-0002:artikel-0003"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index:shop-instructions:phone>shop:shop"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
   </folder>
   <folder name="images">
-    <file name="sa croix_muse.png" crc="472733585" ref="index:phone>index:shop-alternative"/>
+    <file name="sa croix_muse.png" crc="472733585" ref="index:phone>index:shop-alternative:artikel-0000"/>
     <file name="story_01.jpg" crc="4171113003" ref="index:phone>index"/>
     <file name="muse.jpg" crc="4290151289" ref="index:phone>index"/>
-    <file name="muse_blur.jpg" crc="317673932" ref="index:shop:shop-instructions:shop-alternative"/>
+    <file name="muse_blur.jpg" crc="317673932" ref="index:shop:shop-instructions:shop-alternative:artikel-0000"/>
     <file name="logo_instagram.png" crc="490416848" seo="true" ref="phone>index"/>
     <file name="logo_facebook.png" crc="4127500559" seo="true" ref="phone>index"/>
     <file name="alex_portrait.jpg" crc="408705140" seo="true" ref="index:phone>index"/>
@@ -57,14 +57,16 @@
     <file name="sacroix_cap_quickview_red.swf" crc="86130545" ref="shop-alternative"/>
     <file name="sacroix_cap_top_soon.jpg" crc="4121945566" seo="true" ref="shop-alternative"/>
     <file name="sacroix_cap_quickview_grey.swf" crc="4100193239" ref="shop-alternative"/>
-    <file name="sacroix_cap_top_black.jpg" crc="92093680" seo="true" ref="artikel-0000"/>
+    <file name="sacroix_cap_top_black.jpg" crc="92093680" seo="true" ref="artikel-0000:artikel-0003"/>
+    <file name="sacroix_cap_top_red.jpg" crc="3917874313" seo="true" ref="artikel-0001"/>
+    <file name="sacroix_cap_top_grey.jpg" crc="292837197" seo="true" ref="artikel-0002"/>
   </folder>
   <file name="index.html" crc="285706061" seo="true" mt="1484172484949" redirect="true"/>
   <file name="shop.html" crc="3986461794" seo="true" mt="1484168085945" redirect="true"/>
   <file name="shop-instructions.html" crc="512923814" seo="true" mt="1482999359595" redirect="true"/>
   <file name="shop-alternative.html" crc="4040148167" seo="true" mt="1484176271207" redirect="true"/>
-  <file name="artikel-0000.html" crc="464725140" seo="true" mt="1484177114639" redirect="true"/>
-  <file name="artikel-0001.html" crc="216394502" seo="true" mt="1484172342619" redirect="true"/>
-  <file name="artikel-0002.html" crc="3846446559" seo="true" mt="1484172353078" redirect="true"/>
-  <file name="artikel-0003.html" crc="410103473" seo="true" mt="1484172361119" redirect="true"/>
+  <file name="artikel-0000.html" crc="401754581" seo="true" mt="1484177426285" redirect="true"/>
+  <file name="artikel-0001.html" crc="491411018" seo="true" mt="1484177502384" redirect="true"/>
+  <file name="artikel-0002.html" crc="4245641116" seo="true" mt="1484177531812" redirect="true"/>
+  <file name="artikel-0003.html" crc="242814896" seo="true" mt="1484177367011" redirect="true"/>
 </manifest>

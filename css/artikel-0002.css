@@ -1,7 +1,7 @@
 .version.artikel_0002 /* version checker */
 {
-	color: #00001D;
-	background-color: #F7F56F;
+	color: #0000F0;
+	background-color: #0C8A45;
 }
 
 .html
@@ -68,27 +68,69 @@
 	bottom: 0px;
 }
 
-#pu1520-4
+#pu1609
 {
 	width: 0.01px;
 	position: relative;
-	left: 582px;
+	left: 50px;
 	padding-top: 49px;
 	z-index: 2;
-	padding-bottom: 905px;
+	padding-bottom: 590px;
 }
 
-#u1520-4
+#u1609
 {
-	z-index: 27;
-	width: 665px;
-	min-height: 334px;
+	z-index: 41;
+	width: 649px;
 	background-color: transparent;
-	font-size: 28px;
-	color: #FFFFFF;
-	line-height: 34px;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u1591-13
+{
+	z-index: 27;
+	width: 528px;
+	min-height: 334px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 669px;
+}
+
+#u1591-2
+{
+	font-size: 20px;
+	line-height: 24px;
+	color: #E0E0E0;
+}
+
+#u1591-4
+{
+	font-size: 42px;
+	line-height: 50px;
+	color: #FFFFFF;
+}
+
+#u1591-5
+{
+	font-size: 32px;
+	line-height: 38px;
+	color: #FFFFFF;
+}
+
+#u1591-7,#u1591-8,#u1591-9
+{
+	font-size: 36px;
+	line-height: 43px;
+	color: #FFF961;
+}
+
+#u1591-11
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #E0E0E0;
 }
 
 #u1484,#u1484-bw
@@ -101,6 +143,20 @@
 {
 	z-index: 26;
 	height: 121px;
+}
+
+#u1594
+{
+	z-index: 40;
+	width: 109px;
+	min-height: 47px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 573px;
+	left: 814px;
 }
 
 #pu1485-15

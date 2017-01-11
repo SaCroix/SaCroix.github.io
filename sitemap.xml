@@ -55,6 +55,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://sacroix.github.io/images/sacroix_cap_top_red.jpg</loc>
+    <lastmod>2017-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/images/sacroix_cap_top_grey.jpg</loc>
+    <lastmod>2017-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://sacroix.github.io/index.html</loc>
     <lastmod>2017-01-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -87,19 +99,19 @@
   </url>
   <url>
     <loc>http://sacroix.github.io/artikel-0001.html</loc>
-    <lastmod>2017-01-11</lastmod>
+    <lastmod>2017-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sacroix.github.io/artikel-0002.html</loc>
-    <lastmod>2017-01-11</lastmod>
+    <lastmod>2017-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sacroix.github.io/artikel-0003.html</loc>
-    <lastmod>2017-01-11</lastmod>
+    <lastmod>2017-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
