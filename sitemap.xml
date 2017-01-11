@@ -1,69 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sacroix.github.io/images/sa%20croix_muse.png</loc>
+    <loc>http://Lights.com/images/logo.png</loc>
     <lastmod>2017-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/logo_instagram.png</loc>
+    <loc>http://Lights.com/images/holocaust.jpg</loc>
     <lastmod>2017-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/logo_facebook.png</loc>
+    <loc>http://Lights.com/index.html</loc>
     <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/images/alex_portrait.jpg</loc>
-    <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/images/jules_portrait.jpg</loc>
-    <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/images/sa%20croix_muse2.png</loc>
-    <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/images/logo_instagram300x300.png</loc>
-    <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/images/logo_facebook301x301.png</loc>
-    <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/index.html</loc>
-    <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://sacroix.github.io/phone/index.html"/>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/shop.html</loc>
-    <lastmod>2017-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sacroix.github.io/shop-instructions.html</loc>
-    <lastmod>2016-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
