@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sacroix.github.io/images/sa%20croix_muse.png</loc>
-    <lastmod>2017-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://sacroix.github.io/images/logo_instagram.png</loc>
     <lastmod>2017-01-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -44,6 +38,12 @@
   </url>
   <url>
     <loc>http://sacroix.github.io/images/logo_facebook301x301.png</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/images/sacroix_cap_top_soon.jpg</loc>
     <lastmod>2017-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

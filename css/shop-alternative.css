@@ -1,7 +1,7 @@
 .version.shop_alternative /* version checker */
 {
-	color: #0000F7;
-	background-color: #D2AD25;
+	color: #000005;
+	background-color: #97EF9E;
 }
 
 .html
@@ -101,22 +101,17 @@
 	margin-right: -10000px;
 }
 
-#pu1503
+#u1503
 {
 	z-index: 28;
-	width: 0.01px;
-	position: relative;
-	margin-top: 100px;
-}
-
-#u1507
-{
-	z-index: 32;
 	width: 512px;
 	height: 512px;
-	background-color: transparent;
+	background-color: #455943;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	margin-top: 100px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #ppu1504
@@ -133,9 +128,9 @@
 	position: relative;
 }
 
-#u1508
+#u1522
 {
-	z-index: 33;
+	z-index: 32;
 	width: 512px;
 	height: 512px;
 	background-color: transparent;
@@ -151,7 +146,7 @@
 	margin-top: 100px;
 }
 
-#u1502,#u1503,#u1504,#u1505
+#u1502,#u1504,#u1505
 {
 	z-index: 0;
 	width: 512px;
@@ -164,18 +159,17 @@
 	bottom: 0px;
 }
 
-#pu1506,#pu1507,#pu1508,#pu1509
+#pu1506,#pu1522,#pu1537
 {
 	width: 0.01px;
 	position: relative;
 	z-index: 2;
 }
 
-#u1509
+#u1537
 {
 	z-index: 34;
 	width: 512px;
-	height: 512px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -191,6 +185,18 @@
 {
 	z-index: 26;
 	height: 121px;
+}
+
+#u1532
+{
+	z-index: 33;
+	width: 512px;
+	height: 512px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 892px;
+	left: 188px;
 }
 
 #pu1485-15
