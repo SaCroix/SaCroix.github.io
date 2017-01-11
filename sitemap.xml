@@ -67,4 +67,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://sacroix.github.io/shop-alternative.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/artikel-0000.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/artikel-0001.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/artikel-0002.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/artikel-0003.html</loc>
+    <lastmod>2017-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

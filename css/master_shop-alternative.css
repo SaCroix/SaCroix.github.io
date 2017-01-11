@@ -1,0 +1,45 @@
+#u1484
+{
+	background: transparent url("../images/muse_blur.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1484_align_to_page
+{
+	position: relative;
+}
+
+#u1487
+{
+	background-color: #455943;
+	position: relative;
+}
+
+#u1488
+{
+	background-color: #BAC89E;
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+}
+
+#u1489
+{
+	background: transparent url("../images/sa%20croix_muse3.png") no-repeat center center;
+}
+
+#u1485-15
+{
+	background-color: transparent;
+	color: #565656;
+	position: relative;
+}
+
+#u1486-6
+{
+	background-color: transparent;
+	text-align: right;
+	color: #565656;
+	position: relative;
+}
+
