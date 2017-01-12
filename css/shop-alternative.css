@@ -1,7 +1,7 @@
 .version.shop_alternative /* version checker */
 {
-	color: #000005;
-	background-color: #97EF9E;
+	color: #000015;
+	background-color: #77F7F0;
 }
 
 .html
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 1271px;
-	min-height: 1712px;
+	min-height: 1922px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 10px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -28,6 +29,13 @@
 	margin-right: -10000px;
 	margin-top: -36px;
 	margin-left: -100px;
+}
+
+#u1484
+{
+	z-index: 2;
+	min-height: 1567px;
+	padding-bottom: 184px;
 }
 
 #u1484_align_to_page
@@ -43,7 +51,6 @@
 	z-index: 24;
 	width: 1280px;
 	padding-bottom: 89px;
-	margin-bottom: -66px;
 	margin-right: -10000px;
 	margin-top: 121px;
 	left: 96px;
@@ -68,7 +75,7 @@
 	bottom: 0px;
 }
 
-#pppu1502
+#ppu1502
 {
 	width: 0.01px;
 	position: relative;
@@ -78,64 +85,58 @@
 	padding-bottom: 74px;
 }
 
-#ppu1502
-{
-	width: 0.01px;
-	margin-right: -10000px;
-}
-
 #pu1502
 {
-	z-index: 27;
 	width: 0.01px;
-	position: relative;
-}
-
-#u1506
-{
-	z-index: 31;
-	width: 512px;
-	height: 512px;
-	background-color: transparent;
-	position: relative;
 	margin-right: -10000px;
 }
 
-#u1503
+#u1502
 {
-	z-index: 28;
+	z-index: 27;
 	width: 512px;
 	height: 512px;
 	background-color: #455943;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	margin-top: 100px;
 	position: relative;
 }
 
-#ppu1504
+#pu1503
+{
+	z-index: 28;
+	width: 0.01px;
+	position: relative;
+	margin-top: 100px;
+}
+
+#u1651
+{
+	z-index: 35;
+	width: 512px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1504
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 598px;
 }
 
-#pu1504
+#u1504
 {
 	z-index: 29;
-	width: 0.01px;
-	position: relative;
-}
-
-#u1522
-{
-	z-index: 32;
 	width: 512px;
 	height: 512px;
-	background-color: transparent;
+	background-color: #455943;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 	position: relative;
-	margin-right: -10000px;
 }
 
 #pu1505
@@ -146,7 +147,7 @@
 	margin-top: 100px;
 }
 
-#u1502,#u1504,#u1505
+#u1503,#u1505
 {
 	z-index: 0;
 	width: 512px;
@@ -159,7 +160,7 @@
 	bottom: 0px;
 }
 
-#pu1506,#pu1522,#pu1537
+#pu1651,#pu1537
 {
 	width: 0.01px;
 	position: relative;
@@ -168,17 +169,17 @@
 
 #u1537
 {
-	z-index: 34;
+	z-index: 31;
 	width: 512px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1484,#u1484-bw
+#u1484-bw
 {
 	z-index: 2;
-	min-height: 1501px;
+	min-height: 1567px;
 }
 
 #u1489,#u1489-bw
@@ -187,9 +188,55 @@
 	height: 121px;
 }
 
-#u1532
+#u1650
 {
 	z-index: 33;
+	width: 512px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 280px;
+	left: 185px;
+}
+
+#u1652
+{
+	z-index: 37;
+	width: 512px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 280px;
+	left: 783px;
+}
+
+#u1506
+{
+	z-index: 39;
+	width: 512px;
+	height: 512px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 280px;
+	left: 185px;
+}
+
+#u1522
+{
+	z-index: 40;
+	width: 512px;
+	height: 512px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 280px;
+	left: 783px;
+}
+
+#u1532
+{
+	z-index: 41;
 	width: 512px;
 	height: 512px;
 	background-color: transparent;
@@ -202,7 +249,9 @@
 #pu1485-15
 {
 	width: 0.01px;
-	margin: 1636px -10000px -32px 99px;
+	margin-right: -10000px;
+	margin-top: 1998px;
+	margin-left: 99px;
 }
 
 #u1485-15
@@ -233,6 +282,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -1635px;
+	margin-bottom: -1997px;
 }
 

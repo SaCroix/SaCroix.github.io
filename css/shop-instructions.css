@@ -1,7 +1,7 @@
 .version.shop_instructions /* version checker */
 {
-	color: #0000E1;
-	background-color: #FEE24D;
+	color: #0000FF;
+	background-color: #0BC2B7;
 }
 
 .html
@@ -100,8 +100,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	color: #FFFFFF;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -122,8 +122,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	color: #FFFFFF;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
