@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1484257775935">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1484259551136">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master-2.css" crc="202281992" ref="phone>index"/>
-      <file name="index.css" crc="4191076899" ref="phone>index"/>
+      <file name="master_a-master-2.css" crc="26307473" ref="phone>index"/>
+      <file name="index.css" crc="242109303" ref="phone>index"/>
       <file name="shop.css" crc="508901035" ref="phone>shop"/>
     </folder>
-    <file name="index.html" crc="246500301" seo="true" mt="1484257765572" redirect="true"/>
+    <file name="index.html" crc="3876649493" seo="true" mt="1484259513074" redirect="true"/>
     <file name="shop.html" crc="249736673" seo="true" mt="1484246680837" redirect="false"/>
   </folder>
   <folder name="css">
@@ -44,7 +44,6 @@
     <file name="shop_01-u409-fr.png" crc="338509949" ref="index"/>
     <file name="sa croix_muse2.png" crc="472733585" ref="index" seo="true"/>
     <file name="sa croix_muse3.png" crc="472733585" ref="shop-instructions:shop:shop-alternative"/>
-    <file name="shop_01-u1162.png" crc="4037619256" ref="phone>index"/>
     <file name="pfeil mobile-u1303.png" crc="4159141601" ref="phone>index"/>
     <file name="pfeil desktop-u1309.png" crc="4014954153" ref="index"/>
     <file name="logo_instagram300x300.png" crc="3867389807" seo="true" ref="index"/>
@@ -60,6 +59,8 @@
     <file name="sacroix_cap_top_black.jpg" crc="92093680" seo="true" ref="artikel-0000:artikel-0003:shop-alternative"/>
     <file name="sacroix_cap_top_red.jpg" crc="3917874313" seo="true" ref="artikel-0001:shop-alternative"/>
     <file name="sacroix_cap_top_grey.jpg" crc="292837197" seo="true" ref="artikel-0002:shop-alternative"/>
+    <file name="shop_01-u1162-fr.png" crc="338509949" ref="phone>index"/>
+    <file name="sacroix cap-u1664.png" crc="119628279" ref="phone>index"/>
   </folder>
   <file name="index.html" crc="3771858006" seo="true" mt="1484246680786" redirect="true"/>
   <file name="shop.html" crc="3986461794" seo="true" mt="1484246680787" redirect="true"/>
