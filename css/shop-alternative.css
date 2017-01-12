@@ -1,7 +1,7 @@
 .version.shop_alternative /* version checker */
 {
-	color: #000015;
-	background-color: #77F7F0;
+	color: #0000F1;
+	background-color: #853AF0;
 }
 
 .html
@@ -244,6 +244,57 @@
 	margin-right: -10000px;
 	margin-top: 892px;
 	left: 188px;
+}
+
+#u1667-4
+{
+	z-index: 42;
+	width: 513px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: center;
+	line-height: 33px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 792px;
+	left: 185px;
+}
+
+#u1669-4
+{
+	z-index: 46;
+	width: 513px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: center;
+	line-height: 33px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 792px;
+	left: 782px;
+}
+
+#u1670-4
+{
+	z-index: 50;
+	width: 513px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: center;
+	line-height: 33px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1404px;
+	left: 184px;
 }
 
 #pu1485-15
