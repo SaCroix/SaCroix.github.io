@@ -1,0 +1,140 @@
+.version.lampe /* version checker */
+{
+	color: #0000EC;
+	background-color: #32F83A;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1920px;
+	min-height: 1586px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 329px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u165
+{
+	z-index: 2;
+	width: 1920px;
+	background-color: transparent;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -960px;
+}
+
+#u171-48
+{
+	z-index: 4;
+	width: 1212px;
+	min-height: 1274px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: fixed;
+	top: 62px;
+	left: 50%;
+	margin-left: -866px;
+}
+
+#u171-2
+{
+	font-size: 80px;
+	line-height: 96px;
+	padding-left: 300px;
+}
+
+#u171-3,#u171-4
+{
+	font-size: 80px;
+	line-height: 96px;
+}
+
+#u171-27,#u171-28,#u171-29,#u171-30,#u171-31
+{
+	font-size: 24px;
+	line-height: 29px;
+	padding-left: 200px;
+}
+
+#u171-5,#u171-6,#u171-8,#u171-10,#u171-12,#u171-14,#u171-16,#u171-18,#u171-19,#u171-20,#u171-21,#u171-23,#u171-24,#u171-25,#u171-33,#u171-35,#u171-37,#u171-39,#u171-40,#u171-41,#u171-42,#u171-44,#u171-46
+{
+	font-size: 24px;
+	line-height: 29px;
+}
+
+#u256
+{
+	z-index: 57;
+	width: 77px;
+	background-color: transparent;
+	-webkit-transform: matrix(0,1,-1,0,156,79);
+	-ms-transform: matrix(0,1,-1,0,156,79);
+	transform: matrix(0,1,-1,0,156,79);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 234px;
+}
+
+#u256_img
+{
+	padding-top: 192px;
+}
+
+#u173-5
+{
+	z-index: 52;
+	width: 574px;
+	min-height: 197px;
+	background-color: #161616;
+	border-radius: 50px;
+	font-size: 50px;
+	line-height: 60px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1389px;
+	left: 422px;
+}
+
+#u173-5::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	z-index: -1;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	border-radius: 50px;
+	box-shadow: inset 46px 17px 39px rgba(255,255,255,0.2), inset -46px -17px 39px rgba(0,0,0,0.2);
+}
+
+body
+{
+	position: relative;
+	min-width: 1920px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
