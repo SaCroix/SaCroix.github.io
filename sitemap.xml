@@ -8,13 +8,19 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sacroix.github.io/phone/index.html"/>
   </url>
   <url>
-    <loc>http://sacroix.github.io/artikel-0010.html</loc>
+    <loc>http://sacroix.github.io/artikel-0020.html</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/artikel-0020.html</loc>
+    <loc>http://sacroix.github.io/artikel-0011.html</loc>
+    <lastmod>2017-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/artikel-0010.html</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -68,7 +74,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/sacroix_cap_top_grey308x308.jpg</loc>
+    <loc>http://sacroix.github.io/images/sacroix_cap_top_red.jpg</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -80,19 +86,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/shirt_01_02.jpg</loc>
-    <lastmod>2017-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://sacroix.github.io/images/hoodie_01_02.jpg</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://sacroix.github.io/images/shirt_02_01.jpg</loc>
+    <lastmod>2017-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://sacroix.github.io/images/logo_instagram.png</loc>
+    <lastmod>2017-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sacroix.github.io/images/sacroix_cap_top_grey308x308.jpg</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -134,7 +146,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/sacroix_cap_top_red.jpg</loc>
+    <loc>http://sacroix.github.io/images/sacroix_cap_top_grey.jpg</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -146,7 +158,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sacroix.github.io/images/sacroix_cap_top_grey.jpg</loc>
+    <loc>http://sacroix.github.io/images/shirt_01_02.jpg</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
