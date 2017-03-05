@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1488746128931">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1488757629937">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master-2.css" crc="3972039491" ref="index"/>
@@ -75,7 +75,7 @@
   <file name="index.html" crc="4176363204" seo="true" mt="1488676514950" redirect="true"/>
   <file name="shop.html" crc="4274716888" seo="true" mt="1488674246234" redirect="true"/>
   <file name="shop-instructions.html" crc="4175973984" seo="true" mt="1488674246227" redirect="true"/>
-  <file name="shop-alternative.html" crc="4138112362" seo="true" mt="1488746121887" redirect="true"/>
+  <file name="shop-alternative.html" crc="3944511071" seo="true" mt="1488757623238" redirect="true"/>
   <file name="artikel-0000.html" crc="212957611" seo="true" mt="1488676360196" redirect="true"/>
   <file name="artikel-0001.html" crc="196061610" seo="true" mt="1488676443941" redirect="true"/>
   <file name="artikel-0002.html" crc="23218332" seo="true" mt="1488676398968" redirect="true"/>
