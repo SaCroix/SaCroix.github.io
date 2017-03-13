@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1489373079167">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1489372716914">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master-2.css" crc="3972039491" ref="index"/>
@@ -23,7 +23,7 @@
     <file name="museutils.js" crc="163421577" ref="phone>index:phone>shop:index:shop:shop-instructions:shop-alternative:artikel-0000:artikel-0001:artikel-0002:artikel-0003:artikel-0010:artikel-0020:artikel-0011:shop-cap:shop-t-shirt:shop-hoodie"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>shop:index:shop:shop-instructions:shop-alternative:artikel-0000:artikel-0001:artikel-0002:artikel-0003:artikel-0010:artikel-0020:artikel-0011:shop-cap:shop-t-shirt:shop-hoodie"/>
     <file name="museconfig.js" crc="168988563" ref="phone>index:phone>shop:index:shop:shop-instructions:shop-alternative:artikel-0000:artikel-0001:artikel-0002:artikel-0003:artikel-0010:artikel-0020:artikel-0011:shop-cap:shop-t-shirt:shop-hoodie"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:index:shop:shop-instructions:shop-alternative:artikel-0000:artikel-0011"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:index:shop:shop-instructions:shop-alternative:artikel-0000"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:index"/>
     <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>shop:index:shop:shop-instructions:shop-alternative:artikel-0000:artikel-0001:artikel-0002:artikel-0003:artikel-0010:artikel-0020:artikel-0011:shop-cap:shop-t-shirt:shop-hoodie"/>
     <file name="jquery.scrolleffects.js" crc="4065090679" ref="phone>index:index"/>
@@ -32,7 +32,7 @@
   </folder>
   <folder name="images">
     <file name="muse.jpg" crc="4290151289" ref="phone>index:index"/>
-    <file name="muse_blur.jpg" crc="3839601211" ref="phone>index:index:shop:shop-instructions:shop-alternative:artikel-0000:artikel-0011"/>
+    <file name="muse_blur.jpg" crc="3839601211" ref="phone>index:index:shop:shop-instructions:shop-alternative:artikel-0000"/>
     <file name="pfeil mobile-u1303.png" crc="454528199" ref="phone>index"/>
     <file name="story_01.jpg" crc="4171113003" ref="phone>index:index"/>
     <file name="shop_01-u1162-fr.png" crc="338509949" ref="phone>index"/>
@@ -41,7 +41,7 @@
     <file name="logo_instagram.png" crc="490416848" seo="true" ref="phone>index"/>
     <file name="alex_portrait.jpg" crc="408705140" seo="true" ref="phone>index:index"/>
     <file name="jules_portrait.jpg" crc="3895915467" seo="true" ref="phone>index:index"/>
-    <file name="sa croix_muse.png" crc="472733585" ref="phone>index:index:shop-alternative:artikel-0000:artikel-0011"/>
+    <file name="sa croix_muse.png" crc="472733585" ref="phone>index:index:shop-alternative:artikel-0000"/>
     <file name="sa croix_muse2.png" crc="472733585" seo="true" ref="index"/>
     <file name="pfeil desktop-u1309.png" crc="315324208" ref="index"/>
     <file name="sacroix cap-u1323.png" crc="4275747926" ref="index"/>
@@ -66,7 +66,7 @@
     <file name="sacroix_hoodie_basic.swf" crc="296315682" ref="artikel-0020"/>
     <file name="sacroix_shirt_basic.swf" crc="224041600" ref="artikel-0011"/>
     <file name="shirt_01_04-crop-u2736.jpg" crc="366761344" ref="artikel-0010"/>
-    <file name="sacroix_cap_top_red200x200.jpg" crc="241480722" seo="true" ref="artikel-0010:artikel-0011"/>
+    <file name="sacroix_cap_top_red200x200.jpg" crc="241480722" seo="true" ref="artikel-0010"/>
     <file name="hoodie_01_01-crop-u2760.jpg" crc="220765683" ref="artikel-0020"/>
     <file name="shirt_02_03-crop-u2777.jpg" crc="4067031151" ref="artikel-0011"/>
     <file name="shirt_01_02-crop-u3024.jpg" crc="123812832" ref="shop-t-shirt"/>
@@ -92,7 +92,7 @@
   <file name="artikel-0003.html" crc="348164404" seo="true" mt="1489266868177" redirect="true"/>
   <file name="artikel-0010.html" crc="3924336794" seo="true" mt="1489372631511" redirect="true"/>
   <file name="artikel-0020.html" crc="4230501124" seo="true" mt="1489372648232" redirect="true"/>
-  <file name="artikel-0011.html" crc="171929226" seo="true" mt="1489373072076" redirect="true"/>
+  <file name="artikel-0011.html" crc="467040371" seo="true" mt="1489372654461" redirect="true"/>
   <file name="shop-cap.html" crc="3874870487" seo="true" mt="1489266873334" redirect="true"/>
   <file name="shop-t-shirt.html" crc="3954197875" seo="true" mt="1489266902741" redirect="true"/>
   <file name="shop-hoodie.html" crc="4193915936" seo="true" mt="1489266830198" redirect="true"/>
