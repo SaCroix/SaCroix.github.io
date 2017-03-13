@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1489374956164">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1489375321430">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master-2.css" crc="3972039491" ref="index"/>
@@ -7,9 +7,9 @@
     <file name="artikel-0020.css" crc="4288825425" ref="artikel-0020"/>
     <file name="artikel-0003.css" crc="297728832" ref="artikel-0003"/>
     <file name="shop-alternative.css" crc="185870699" ref="shop-alternative"/>
-    <file name="artikel-0000.css" crc="25226340" ref="artikel-0000"/>
-    <file name="artikel-0001.css" crc="482008148" ref="artikel-0001"/>
-    <file name="artikel-0002.css" crc="445821972" ref="artikel-0002"/>
+    <file name="artikel-0000.css" crc="507316094" ref="artikel-0000"/>
+    <file name="artikel-0001.css" crc="4119425434" ref="artikel-0001"/>
+    <file name="artikel-0002.css" crc="157722862" ref="artikel-0002"/>
     <file name="shop.css" crc="3825565344" ref="shop"/>
     <file name="shop-instructions.css" crc="3887644470" ref="shop-instructions"/>
     <file name="artikel-0010.css" crc="329860872" ref="artikel-0010"/>
@@ -66,7 +66,7 @@
     <file name="sacroix_hoodie_basic.swf" crc="296315682" ref="artikel-0020"/>
     <file name="sacroix_shirt_basic.swf" crc="224041600" ref="artikel-0011"/>
     <file name="shirt_01_04-crop-u2736.jpg" crc="366761344" ref="artikel-0010"/>
-    <file name="sacroix_cap_top_red200x200.jpg" crc="241480722" seo="true" ref="artikel-0010"/>
+    <file name="sacroix_cap_top_red200x200.jpg" crc="241480722" seo="true" ref="artikel-0010:artikel-0011"/>
     <file name="hoodie_01_01-crop-u2760.jpg" crc="220765683" ref="artikel-0020"/>
     <file name="shirt_02_03-crop-u2777.jpg" crc="4067031151" ref="artikel-0011"/>
     <file name="shirt_01_02-crop-u3024.jpg" crc="123812832" ref="shop-t-shirt"/>
@@ -87,13 +87,13 @@
   <file name="shop.html" crc="4274716888" seo="true" mt="1488674246234" redirect="true"/>
   <file name="shop-instructions.html" crc="4175973984" seo="true" mt="1488674246227" redirect="true"/>
   <file name="shop-alternative.html" crc="3759268884" seo="true" mt="1489266455746" redirect="true"/>
-  <file name="artikel-0000.html" crc="376252507" seo="true" mt="1489374922015" redirect="true"/>
-  <file name="artikel-0001.html" crc="3787425536" seo="true" mt="1489374936723" redirect="true"/>
-  <file name="artikel-0002.html" crc="181001449" seo="true" mt="1489374941461" redirect="true"/>
+  <file name="artikel-0000.html" crc="106879867" seo="true" mt="1489375250001" redirect="true"/>
+  <file name="artikel-0001.html" crc="4231814864" seo="true" mt="1489375258214" redirect="true"/>
+  <file name="artikel-0002.html" crc="3858790283" seo="true" mt="1489375275183" redirect="true"/>
   <file name="artikel-0003.html" crc="348164404" seo="true" mt="1489266868177" redirect="true"/>
   <file name="artikel-0010.html" crc="170162018" seo="true" mt="1489374543328" redirect="true"/>
   <file name="artikel-0020.html" crc="4230501124" seo="true" mt="1489372648232" redirect="true"/>
-  <file name="artikel-0011.html" crc="236924782" seo="true" mt="1489373072076" redirect="true"/>
+  <file name="artikel-0011.html" crc="3801733304" seo="true" mt="1489375309968" redirect="true"/>
   <file name="shop-cap.html" crc="3874870487" seo="true" mt="1489266873334" redirect="true"/>
   <file name="shop-t-shirt.html" crc="3954197875" seo="true" mt="1489266902741" redirect="true"/>
   <file name="shop-hoodie.html" crc="4193915936" seo="true" mt="1489266830198" redirect="true"/>
