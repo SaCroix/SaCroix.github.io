@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1489372716914">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sacroix.github.io" resolutions="1x" timestamp="1489374956164">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master-2.css" crc="3972039491" ref="index"/>
@@ -7,13 +7,13 @@
     <file name="artikel-0020.css" crc="4288825425" ref="artikel-0020"/>
     <file name="artikel-0003.css" crc="297728832" ref="artikel-0003"/>
     <file name="shop-alternative.css" crc="185870699" ref="shop-alternative"/>
-    <file name="artikel-0000.css" crc="3911783222" ref="artikel-0000"/>
-    <file name="artikel-0001.css" crc="191263979" ref="artikel-0001"/>
-    <file name="artikel-0002.css" crc="3764420032" ref="artikel-0002"/>
+    <file name="artikel-0000.css" crc="25226340" ref="artikel-0000"/>
+    <file name="artikel-0001.css" crc="482008148" ref="artikel-0001"/>
+    <file name="artikel-0002.css" crc="445821972" ref="artikel-0002"/>
     <file name="shop.css" crc="3825565344" ref="shop"/>
     <file name="shop-instructions.css" crc="3887644470" ref="shop-instructions"/>
-    <file name="artikel-0010.css" crc="143295288" ref="artikel-0010"/>
-    <file name="artikel-0011.css" crc="3767611536" ref="artikel-0011"/>
+    <file name="artikel-0010.css" crc="329860872" ref="artikel-0010"/>
+    <file name="artikel-0011.css" crc="4222809248" ref="artikel-0011"/>
     <file name="shop-hoodie.css" crc="117210996" ref="shop-hoodie"/>
     <file name="shop-cap.css" crc="244573287" ref="shop-cap"/>
     <file name="shop-t-shirt.css" crc="253187580" ref="shop-t-shirt"/>
@@ -72,6 +72,7 @@
     <file name="shirt_01_02-crop-u3024.jpg" crc="123812832" ref="shop-t-shirt"/>
     <file name="shirt_02_01-crop-u3026.jpg" crc="3761164293" ref="shop-t-shirt"/>
     <file name="hoodie_01_02-crop-u3047.jpg" crc="294188251" ref="shop-hoodie"/>
+    <file name="sacroix_cap_color.swf" crc="4151423298" ref="artikel-0000:artikel-0001:artikel-0002"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -86,13 +87,13 @@
   <file name="shop.html" crc="4274716888" seo="true" mt="1488674246234" redirect="true"/>
   <file name="shop-instructions.html" crc="4175973984" seo="true" mt="1488674246227" redirect="true"/>
   <file name="shop-alternative.html" crc="3759268884" seo="true" mt="1489266455746" redirect="true"/>
-  <file name="artikel-0000.html" crc="344508248" seo="true" mt="1489372505318" redirect="true"/>
-  <file name="artikel-0001.html" crc="4218958417" seo="true" mt="1489372518710" redirect="true"/>
-  <file name="artikel-0002.html" crc="3790405612" seo="true" mt="1489372531227" redirect="true"/>
+  <file name="artikel-0000.html" crc="376252507" seo="true" mt="1489374922015" redirect="true"/>
+  <file name="artikel-0001.html" crc="3787425536" seo="true" mt="1489374936723" redirect="true"/>
+  <file name="artikel-0002.html" crc="181001449" seo="true" mt="1489374941461" redirect="true"/>
   <file name="artikel-0003.html" crc="348164404" seo="true" mt="1489266868177" redirect="true"/>
-  <file name="artikel-0010.html" crc="3924336794" seo="true" mt="1489372631511" redirect="true"/>
+  <file name="artikel-0010.html" crc="170162018" seo="true" mt="1489374543328" redirect="true"/>
   <file name="artikel-0020.html" crc="4230501124" seo="true" mt="1489372648232" redirect="true"/>
-  <file name="artikel-0011.html" crc="467040371" seo="true" mt="1489372654461" redirect="true"/>
+  <file name="artikel-0011.html" crc="236924782" seo="true" mt="1489373072076" redirect="true"/>
   <file name="shop-cap.html" crc="3874870487" seo="true" mt="1489266873334" redirect="true"/>
   <file name="shop-t-shirt.html" crc="3954197875" seo="true" mt="1489266902741" redirect="true"/>
   <file name="shop-hoodie.html" crc="4193915936" seo="true" mt="1489266830198" redirect="true"/>
